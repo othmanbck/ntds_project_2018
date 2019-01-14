@@ -10,11 +10,11 @@
 8,6.5,Comedy,110000000.0,2,884,Steve Buscemi
 9,6.5,Comedy,100000000.0,2,388,Jim Broadbent
 10,6.5,Comedy,160000000.0,2,19278,Bill Hader
-11,6.5,Drama,210000000.0,2,500,Tom Cruise
+11,6.5,Action,210000000.0,2,500,Tom Cruise
 12,6.5,Comedy,80000000.0,2,1532,Bill Murray
 13,6.0,Action,130000000.0,2,3131,Antonio Banderas
 14,7.0,Comedy,240000000.0,2,31,Tom Hanks
-15,6.5,Drama,100000000.0,2,1461,George Clooney
+15,6.5,Action,100000000.0,2,1461,George Clooney
 16,7.0,Drama,120000000.0,2,1233,Philip Seymour Hoffman
 17,6.5,Action,70000000.0,2,1248,Brian Cox
 18,6.5,Action,480000000.0,2,7624,Stan Lee
@@ -25,7 +25,7 @@
 23,6.0,Action,120000000.0,2,1100,Arnold Schwarzenegger
 24,6.5,Comedy,140000000.0,2,19274,Seth Rogen
 25,6.0,Comedy,120000000.0,2,22226,Paul Rudd
-26,7.0,Drama,150000000.0,2,5293,Willem Dafoe
+26,7.0,Action,150000000.0,2,5293,Willem Dafoe
 27,6.5,Adventure,150000000.0,2,6968,Hugh Jackman
 28,6.5,Drama,160000000.0,2,57755,Woody Harrelson
 29,6.5,Drama,180000000.0,2,103,Mark Ruffalo
@@ -46,7 +46,7 @@
 44,6.5,Drama,250000000.0,1,1245,Scarlett Johansson
 45,6.5,Comedy,140000000.0,2,70851,Jack Black
 46,6.5,Drama,130000000.0,1,1204,Julia Roberts
-47,6.5,Drama,120000000.0,2,38673,Channing Tatum
+47,6.5,Action,120000000.0,2,38673,Channing Tatum
 48,6.5,Drama,200000000.0,1,5309,Judi Dench
 49,6.5,Comedy,90000000.0,2,4690,Christopher Walken
 50,6.0,Action,90000000.0,2,2963,Nicolas Cage
@@ -58,7 +58,7 @@
 56,6.5,Drama,160000000.0,2,18999,J.K. Simmons
 57,6.5,Comedy,120000000.0,2,206,Jim Carrey
 58,6.5,Comedy,110000000.0,2,17401,Stephen Root
-59,6.5,Drama,150000000.0,2,2975,Laurence Fishburne
+59,6.5,Action,150000000.0,2,2975,Laurence Fishburne
 60,6.5,Action,70000000.0,2,65827,Keith David
 61,6.5,Comedy,150000000.0,2,2157,Robin Williams
 62,6.5,Comedy,40000000.0,1,2229,Catherine Keener
@@ -69,12 +69,12 @@
 67,6.5,Comedy,150000000.0,2,880,Ben Affleck
 68,6.5,Drama,110000000.0,2,4173,Anthony Hopkins
 69,6.5,Drama,160000000.0,1,524,Natalie Portman
-70,6.5,Drama,220000000.0,1,1813,Anne Hathaway
+70,6.5,Comedy,220000000.0,1,1813,Anne Hathaway
 71,6.0,Comedy,120000000.0,2,10859,Ryan Reynolds
 72,6.5,Drama,170000000.0,2,2039,Brendan Gleeson
 73,6.5,Action,180000000.0,2,53650,Anthony Mackie
 74,6.5,Action,160000000.0,2,17051,James Franco
-75,6.5,Comedy,140000000.0,1,19,Allison Janney
+75,6.5,Drama,140000000.0,1,19,Allison Janney
 76,6.5,Action,110000000.0,2,976,Jason Statham
 77,6.5,Adventure,310000000.0,2,6162,Paul Bettany
 78,6.0,Drama,20000000.0,1,4038,Susan Sarandon
@@ -91,13 +91,13 @@
 89,6.0,Comedy,100000000.0,2,19292,Adam Sandler
 90,6.5,Drama,60000000.0,1,2227,Nicole Kidman
 91,6.0,Action,170000000.0,1,11701,Angelina Jolie
-92,6.5,Drama,110000000.0,2,5049,John Hurt
+92,6.5,Action,110000000.0,2,5049,John Hurt
 93,6.5,Comedy,120000000.0,1,9827,Rose Byrne
 94,7.0,Comedy,160000000.0,2,4483,Dustin Hoffman
-95,7.0,Drama,220000000.0,2,3895,Michael Caine
+95,7.0,Comedy,220000000.0,2,3895,Michael Caine
 96,7.0,Animation,420000000.0,2,7907,John Ratzenberger
 97,6.0,Comedy,180000000.0,2,776,Eddie Murphy
-98,6.5,Drama,160000000.0,1,18277,Sandra Bullock
+98,6.5,Comedy,160000000.0,1,18277,Sandra Bullock
 99,7.0,Drama,80000000.0,2,1121,Benicio del Toro
 100,6.5,Drama,130000000.0,1,20089,Jena Malone
 101,6.5,Drama,210000000.0,2,1771,Giovanni Ribisi
@@ -151,11 +151,11 @@
 149,6.5,Comedy,160000000.0,2,212,David Cross
 150,6.5,Action,180000000.0,2,16851,Josh Brolin
 151,7.0,Drama,50000000.0,2,3087,Robert Duvall
-152,6.5,Drama,130000000.0,1,9273,Amy Adams
+152,6.5,Comedy,130000000.0,1,9273,Amy Adams
 153,6.5,Comedy,110000000.0,2,5472,Colin Firth
 154,6.5,Drama,60000000.0,1,1920,Winona Ryder
 155,6.0,Comedy,110000000.0,1,1772,Anna Faris
-156,6.5,Drama,160000000.0,2,51329,Bradley Cooper
+156,6.5,Comedy,160000000.0,2,51329,Bradley Cooper
 157,6.5,Drama,40000000.0,1,5916,Rosario Dawson
 158,6.5,Action,150000000.0,2,886,William Fichtner
 159,7.0,Drama,80000000.0,2,131,Jake Gyllenhaal
@@ -179,12 +179,12 @@
 177,6.5,Action,160000000.0,2,2505,James Cromwell
 178,6.5,Comedy,200000000.0,1,20750,Judy Greer
 179,6.0,Comedy,40000000.0,2,36422,Luke Wilson
-180,7.0,Drama,90000000.0,1,53714,Rachel McAdams
+180,7.0,Comedy,90000000.0,1,53714,Rachel McAdams
 181,6.5,Comedy,190000000.0,2,539,Thomas Lennon
-182,6.5,Comedy,90000000.0,1,6885,Charlize Theron
+182,6.5,Action,90000000.0,1,6885,Charlize Theron
 183,6.0,Comedy,40000000.0,2,28638,David Koechner
 184,7.0,Drama,170000000.0,2,658,Alfred Molina
-185,6.5,Drama,200000000.0,2,2037,Cillian Murphy
+185,6.5,Action,200000000.0,2,2037,Cillian Murphy
 186,6.0,Action,160000000.0,1,29214,Anne Fletcher
 187,6.5,Comedy,60000000.0,1,5081,Emily Blunt
 188,7.0,Drama,110000000.0,2,1665,Eddie Marsan
@@ -204,7 +204,7 @@
 202,6.0,Drama,60000000.0,1,1989,Celia Weston
 203,6.0,Comedy,110000000.0,1,41087,Leslie Mann
 204,6.5,Drama,60000000.0,1,1579,Maggie Gyllenhaal
-205,6.5,Drama,80000000.0,2,21089,Bruce Greenwood
+205,6.5,Action,80000000.0,2,21089,Bruce Greenwood
 206,6.5,Adventure,220000000.0,2,11355,Jason Isaacs
 207,6.5,Drama,70000000.0,1,1246,Emily Mortimer
 208,6.5,Comedy,50000000.0,2,12438,Bob Balaban
@@ -228,10 +228,10 @@
 226,6.5,Action,240000000.0,2,4581,Steve Coogan
 227,6.5,Adventure,140000000.0,2,5538,Ray Winstone
 228,6.5,Comedy,90000000.0,1,4491,Jennifer Aniston
-229,6.5,Drama,30000000.0,2,11477,Ray Liotta
+229,6.5,Crime,30000000.0,2,11477,Ray Liotta
 230,6.5,Drama,90000000.0,2,129868,J.D. Evermore
 231,6.5,Adventure,470000000.0,2,113,Christopher Lee
-232,6.5,Comedy,200000000.0,2,12900,Wallace Shawn
+232,6.5,Animation,200000000.0,2,12900,Wallace Shawn
 233,6.5,Comedy,90000000.0,2,4492,Philip Baker Hall
 234,7.0,Drama,70000000.0,2,3905,William H. Macy
 235,6.0,Comedy,100000000.0,2,53256,Terry Crews
@@ -282,7 +282,7 @@
 280,6.5,Drama,70000000.0,2,74242,Shea Whigham
 281,6.5,Comedy,160000000.0,1,54693,Emma Stone
 282,6.5,Action,240000000.0,2,12797,Glenn Morshower
-283,6.5,Drama,30000000.0,2,9880,Sam Shepard
+283,6.5,Action,30000000.0,2,9880,Sam Shepard
 284,6.5,Comedy,170000000.0,2,4785,Jeff Goldblum
 285,7.0,Animation,550000000.0,2,84495,Jess Harnell
 286,6.0,Action,140000000.0,2,62862,Danny McBride
@@ -301,7 +301,7 @@
 299,6.5,Drama,60000000.0,2,6574,Clancy Brown
 300,5.5,Comedy,70000000.0,2,32907,Nick Swardson
 301,7.0,Action,250000000.0,2,12835,Vin Diesel
-302,6.5,Drama,90000000.0,2,14888,Bruce McGill
+302,6.5,Comedy,90000000.0,2,14888,Bruce McGill
 303,6.5,Comedy,70000000.0,2,504,Tim Robbins
 304,6.5,Comedy,110000000.0,2,54697,Dave Franco
 305,6.5,Action,60000000.0,2,5365,Clifton Collins Jr
@@ -310,8 +310,8 @@
 308,6.5,Comedy,70000000.0,2,1229,Jeff Bridges
 309,6.5,Action,140000000.0,2,2461,Mel Gibson
 310,6.0,Animation,230000000.0,2,21200,Will Arnett
-311,6.5,Fantasy,80000000.0,2,2372,Ron Perlman
-312,7.0,Drama,220000000.0,1,11356,Imelda Staunton
+311,6.5,Animation,80000000.0,2,2372,Ron Perlman
+312,7.0,Animation,220000000.0,1,11356,Imelda Staunton
 313,6.0,Comedy,50000000.0,2,62831,Will Forte
 314,6.5,Drama,140000000.0,2,12074,John Lithgow
 315,6.5,Horror,130000000.0,2,17178,Patrick Wilson
@@ -319,8 +319,8 @@
 317,6.0,Comedy,100000000.0,1,55536,Melissa McCarthy
 318,6.5,Action,80000000.0,2,1462,Tim Blake Nelson
 319,6.5,Action,90000000.0,2,62064,Chris Pine
-320,6.5,Drama,110000000.0,1,9137,Renée Zellweger
-321,7.0,Comedy,70000000.0,2,1037,Harvey Keitel
+320,6.5,Comedy,110000000.0,1,9137,Renée Zellweger
+321,7.0,Drama,70000000.0,2,1037,Harvey Keitel
 322,6.0,Action,130000000.0,2,28641,Terence Stamp
 323,6.5,Drama,160000000.0,2,17288,Michael Fassbender
 324,6.0,Comedy,60000000.0,2,16165,Jon Lovitz
@@ -340,7 +340,7 @@
 338,6.5,Drama,30000000.0,1,15091,Melanie Lynskey
 339,6.5,Drama,120000000.0,1,5151,Beth Grant
 340,6.5,Drama,120000000.0,2,227,William Hurt
-341,6.5,Drama,70000000.0,2,16431,Sam Elliott
+341,6.5,Action,70000000.0,2,16431,Sam Elliott
 342,6.5,Drama,40000000.0,1,9780,Angela Bassett
 343,6.5,Drama,50000000.0,1,15852,Ashley Judd
 344,6.0,Comedy,130000000.0,2,8984,Bill Pullman
@@ -355,7 +355,7 @@
 353,6.5,Action,230000000.0,2,1372,Karl Urban
 354,6.0,Comedy,70000000.0,2,20753,Fred Willard
 355,6.0,Action,390000000.0,1,17647,Michelle Rodriguez
-356,6.5,Comedy,170000000.0,2,44735,Jesse Eisenberg
+356,6.5,Action,170000000.0,2,44735,Jesse Eisenberg
 357,6.5,Comedy,90000000.0,2,4756,Matthew Broderick
 358,7.0,Action,80000000.0,2,534,Mark Boone Junior
 359,6.0,Science Fiction,60000000.0,2,1748,William Shatner
@@ -372,7 +372,7 @@
 370,6.0,Drama,30000000.0,2,8924,Frank Langella
 371,6.5,Drama,310000000.0,1,72129,Jennifer Lawrence
 372,6.5,Drama,120000000.0,1,6199,Miriam Margolyes
-373,6.0,Comedy,150000000.0,2,9657,Patrick Warburton
+373,6.0,Animation,150000000.0,2,9657,Patrick Warburton
 374,6.0,Action,130000000.0,2,61981,Michael Clarke Duncan
 375,6.5,Drama,40000000.0,2,13550,Elias Koteas
 376,6.5,Action,130000000.0,2,147,Michael Madsen
@@ -384,14 +384,14 @@
 382,6.5,Drama,130000000.0,1,8436,Miranda Richardson
 383,6.5,Action,80000000.0,2,18792,Delroy Lindo
 384,6.5,Action,250000000.0,2,938,Djimon Hounsou
-385,6.5,Drama,130000000.0,2,8783,Eric Bana
+385,6.5,Action,130000000.0,2,8783,Eric Bana
 386,6.5,Comedy,90000000.0,1,10882,Rosamund Pike
 387,6.5,Drama,110000000.0,2,4935,Pete Postlethwaite
 388,6.5,Comedy,110000000.0,2,18262,Richard Riehle
 389,6.5,Drama,60000000.0,1,1812,Michelle Williams
 390,6.0,Action,150000000.0,2,31164,Adewale Akinnuoye-Agbaje
 391,6.0,Animation,220000000.0,2,78798,Tom Kenny
-392,6.5,Drama,130000000.0,1,1981,Alfre Woodard
+392,6.5,Animation,130000000.0,1,1981,Alfre Woodard
 393,6.5,Drama,110000000.0,2,6383,Aaron Eckhart
 394,6.0,Action,50000000.0,2,5576,Val Kilmer
 395,6.5,Action,150000000.0,1,11705,Michelle Monaghan
@@ -414,20 +414,20 @@
 412,6.5,Action,180000000.0,2,18897,Jackie Chan
 413,6.0,Action,100000000.0,2,79072,Kevin Durand
 414,6.5,Drama,100000000.0,1,51072,Kate Mara
-415,6.5,Drama,110000000.0,1,15556,Rebecca Hall
+415,6.5,Thriller,110000000.0,1,15556,Rebecca Hall
 416,7.0,Drama,220000000.0,2,110,Viggo Mortensen
 417,6.0,Comedy,130000000.0,2,41686,Neil Patrick Harris
 418,6.5,Adventure,270000000.0,2,2449,Kevin McNally
 419,6.5,Drama,100000000.0,1,12041,Julia Stiles
 420,7.0,Drama,170000000.0,2,5294,Chiwetel Ejiofor
 421,6.5,Drama,80000000.0,2,4029,Bob Gunton
-422,6.0,Comedy,50000000.0,1,56731,Jessica Alba
+422,6.0,Action,50000000.0,1,56731,Jessica Alba
 423,7.0,Adventure,410000000.0,2,7908,Frank Oz
 424,6.0,Comedy,100000000.0,2,60949,Rob Schneider
 425,6.5,Drama,170000000.0,1,83002,Jessica Chastain
 426,6.5,Comedy,270000000.0,2,51990,T.J. Miller
 427,6.0,Action,60000000.0,2,2224,Christian Slater
-428,6.0,Thriller,20000000.0,2,4691,James Gandolfini
+428,6.0,Comedy,20000000.0,2,4691,James Gandolfini
 429,6.0,Comedy,110000000.0,1,52851,Paula Patton
 430,6.5,Drama,80000000.0,1,13333,Vanessa Redgrave
 431,6.0,Action,90000000.0,2,18082,Timothy Olyphant
@@ -442,9 +442,9 @@
 440,7.0,Drama,130000000.0,2,1925,Vincent Cassel
 441,7.0,Comedy,250000000.0,2,8536,Victor Garber
 442,6.5,Comedy,40000000.0,2,15543,Derek Luke
-443,6.5,Comedy,260000000.0,2,18,Brad Garrett
+443,6.5,Animation,260000000.0,2,18,Brad Garrett
 444,6.5,Drama,40000000.0,1,452,Margo Martindale
-445,6.5,Drama,50000000.0,1,59315,Olivia Wilde
+445,6.5,Romance,50000000.0,1,59315,Olivia Wilde
 446,6.0,Action,150000000.0,2,17289,Rodrigo Santoro
 447,6.0,Horror,90000000.0,1,11863,Sarah Michelle Gellar
 448,6.5,Drama,20000000.0,2,588,M. Emmet Walsh
@@ -466,7 +466,7 @@
 464,6.5,Comedy,90000000.0,2,3085,James Caan
 465,6.5,Action,130000000.0,2,1118,Rade Serbedzija
 466,6.5,Action,110000000.0,2,6752,Zeljko Ivanek
-467,6.0,Drama,50000000.0,1,6886,Christina Ricci
+467,6.0,Horror,50000000.0,1,6886,Christina Ricci
 468,6.5,Comedy,40000000.0,1,3897,Katie Holmes
 469,6.5,Drama,160000000.0,2,27319,Christoph Waltz
 470,6.0,Comedy,60000000.0,2,29222,Zac Efron
@@ -476,17 +476,17 @@
 474,6.5,Action,130000000.0,2,6573,William Sadler
 475,6.5,Comedy,130000000.0,1,40462,Kristen Bell
 476,6.0,Action,150000000.0,1,515,Glenn Close
-477,6.5,Action,280000000.0,2,60279,Fred Tatasciore
+477,6.5,Animation,280000000.0,2,60279,Fred Tatasciore
 478,6.0,Comedy,120000000.0,1,28640,Molly Shannon
 479,7.0,Adventure,550000000.0,2,114,Orlando Bloom
 480,6.5,Action,150000000.0,2,20904,James Hong
 481,7.0,Adventure,520000000.0,2,11184,Warwick Davis
 482,6.5,Adventure,170000000.0,2,10127,Jon Voight
-483,6.0,Drama,210000000.0,2,27752,Bruce Spence
+483,6.0,Fantasy,210000000.0,2,27752,Bruce Spence
 484,6.0,Action,20000000.0,2,7497,Holt McCallany
 485,7.0,Comedy,140000000.0,1,1294,Missi Pyle
-486,6.5,Drama,210000000.0,2,65717,Jon Hamm
-487,7.0,Drama,180000000.0,2,529,Guy Pearce
+486,6.5,Comedy,210000000.0,2,65717,Jon Hamm
+487,7.0,Fantasy,180000000.0,2,529,Guy Pearce
 488,6.5,Comedy,230000000.0,1,9575,Jada Pinkett Smith
 489,7.0,Comedy,110000000.0,1,2453,Mary Steenburgen
 490,6.5,Drama,100000000.0,2,4808,Giancarlo Esposito
@@ -506,9 +506,9 @@
 504,6.5,Comedy,50000000.0,2,4004,Jeffrey Jones
 505,6.5,Comedy,100000000.0,1,46074,Rachael Harris
 506,7.0,Action,100000000.0,2,37204,David Warshofsky
-507,7.0,Drama,110000000.0,2,50217,Michael Kelly
+507,7.0,Science Fiction,110000000.0,2,50217,Michael Kelly
 508,6.5,Drama,140000000.0,1,36594,Juno Temple
-509,6.5,Adventure,300000000.0,2,12073,Mike Myers
+509,6.5,Comedy,300000000.0,2,12073,Mike Myers
 510,6.5,Drama,80000000.0,2,2714,Lance Henriksen
 511,7.0,Adventure,440000000.0,2,11180,David Bradley
 512,6.5,Adventure,400000000.0,2,12080,Conrad Vernon
@@ -519,10 +519,10 @@
 517,6.0,Comedy,50000000.0,2,52997,Rob Corddry
 518,6.0,Comedy,100000000.0,1,2956,Amanda Peet
 519,6.5,Action,290000000.0,1,2038,Naomie Harris
-520,6.5,Drama,100000000.0,2,77335,Ben Mendelsohn
+520,6.5,Action,100000000.0,2,77335,Ben Mendelsohn
 521,6.5,Drama,120000000.0,1,18050,Elle Fanning
 522,6.5,Action,150000000.0,2,2220,Tony Curran
-523,6.0,Action,80000000.0,2,26457,Matthew Lillard
+523,6.0,Comedy,80000000.0,2,26457,Matthew Lillard
 524,7.0,Drama,140000000.0,2,514,Jack Nicholson
 525,6.5,Comedy,30000000.0,1,25540,Sandra Oh
 526,6.5,Drama,30000000.0,2,4512,James Woods
@@ -546,7 +546,7 @@
 544,6.0,Drama,60000000.0,1,11661,Kate Hudson
 545,6.5,Comedy,50000000.0,2,26510,Eugene Levy
 546,6.0,Comedy,50000000.0,2,67773,Steve Martin
-547,6.5,Action,140000000.0,2,449,Jay Baruchel
+547,6.5,Comedy,140000000.0,2,449,Jay Baruchel
 548,6.5,Drama,80000000.0,2,11181,Kenneth Branagh
 549,6.0,Drama,30000000.0,1,7517,Kate Bosworth
 550,5.5,Action,60000000.0,1,57674,Alexa PenaVega
@@ -578,12 +578,12 @@
 576,7.0,Comedy,10000000.0,1,10431,Jennifer Jason Leigh
 577,6.5,Comedy,60000000.0,2,1670,Daniel Mays
 578,6.5,Drama,40000000.0,2,16460,Marcus Lyle Brown
-579,6.5,Drama,140000000.0,2,76512,Jason Clarke
+579,6.5,Science Fiction,140000000.0,2,76512,Jason Clarke
 580,6.5,Science Fiction,250000000.0,2,27972,Josh Hutcherson
 581,6.5,Comedy,110000000.0,2,20644,Aasif Mandvi
 582,6.0,Comedy,120000000.0,2,41088,Jason Segel
-583,6.0,Action,120000000.0,2,56903,Tracy Morgan
-584,6.5,Drama,60000000.0,2,2299,Josh Hartnett
+583,6.0,Animation,120000000.0,2,56903,Tracy Morgan
+584,6.5,Action,60000000.0,2,2299,Josh Hartnett
 585,6.5,Drama,90000000.0,2,1284,Noah Taylor
 586,6.5,Action,70000000.0,2,9778,Ice Cube
 587,6.5,Comedy,80000000.0,2,17835,Ricky Gervais
@@ -597,7 +597,7 @@
 595,6.0,Thriller,40000000.0,1,8329,Radha Mitchell
 596,7.0,Drama,100000000.0,1,21657,Vera Farmiga
 597,6.5,Drama,60000000.0,2,13936,Frankie Faison
-598,6.5,Drama,60000000.0,2,2296,Clive Owen
+598,6.5,Action,60000000.0,2,2296,Clive Owen
 599,6.5,Drama,210000000.0,2,21134,John Slattery
 600,6.5,Animation,250000000.0,2,12898,Tim Allen
 601,7.0,Drama,80000000.0,2,785,James Russo
@@ -609,7 +609,7 @@
 607,7.0,Animation,270000000.0,2,78317,Bob Bergen
 608,7.0,Animation,370000000.0,1,5149,Bonnie Hunt
 609,6.5,Comedy,40000000.0,2,15232,Ty Burrell
-610,6.5,Action,150000000.0,2,4589,Benjamin Bratt
+610,6.5,Animation,150000000.0,2,4589,Benjamin Bratt
 611,6.0,Comedy,140000000.0,2,12111,Justin Timberlake
 612,7.0,Adventure,490000000.0,1,10990,Emma Watson
 613,6.0,Science Fiction,250000000.0,2,2076,David Warner
@@ -618,7 +618,7 @@
 616,6.5,Comedy,40000000.0,1,5657,Anjelica Huston
 617,6.0,Adventure,170000000.0,2,56614,Ray Stevenson
 618,7.0,Drama,200000000.0,1,8293,Marion Cotillard
-619,6.5,Drama,40000000.0,2,11864,Ryan Phillippe
+619,6.5,Action,40000000.0,2,11864,Ryan Phillippe
 620,6.5,Drama,110000000.0,1,5470,Kristin Scott Thomas
 621,6.5,Animation,270000000.0,2,7090,Kelsey Grammer
 622,6.5,Adventure,290000000.0,1,501,Dakota Fanning
@@ -633,7 +633,7 @@
 631,6.0,Comedy,110000000.0,2,8854,Bill Cobbs
 632,7.0,Comedy,170000000.0,2,51797,Nathan Fillion
 633,7.0,Drama,170000000.0,1,27578,Ellen Page
-634,6.5,Action,110000000.0,2,74541,Corey Stoll
+634,6.5,Drama,110000000.0,2,74541,Corey Stoll
 635,6.0,Drama,60000000.0,2,537,Stephen Tobolowsky
 636,6.5,Comedy,70000000.0,1,54708,Carla Gallo
 637,6.5,Drama,50000000.0,1,6905,Bruce Dern
@@ -655,7 +655,7 @@
 653,6.0,Action,90000000.0,1,17628,Mary Elizabeth Winstead
 654,6.5,Comedy,330000000.0,1,5823,Julie Andrews
 655,7.0,Animation,450000000.0,1,35159,Laraine Newman
-656,6.5,Crime,20000000.0,2,46593,Emile Hirsch
+656,6.5,Action,20000000.0,2,46593,Emile Hirsch
 657,6.5,Comedy,100000000.0,2,7026,Rhys Ifans
 658,6.5,Drama,50000000.0,1,448,Hilary Swank
 659,7.0,Drama,120000000.0,2,11885,John C. McGinley
@@ -675,13 +675,13 @@
 673,7.0,Comedy,80000000.0,2,3636,Paul Newman
 674,6.0,Comedy,80000000.0,1,8211,Mena Suvari
 675,7.0,Drama,90000000.0,2,93210,Domhnall Gleeson
-676,7.0,Drama,110000000.0,2,2201,Max von Sydow
+676,7.0,Action,110000000.0,2,2201,Max von Sydow
 677,6.5,Drama,100000000.0,2,15338,William Mapother
 678,6.5,Action,100000000.0,2,2518,Gregg Henry
 679,6.0,Drama,90000000.0,1,3416,Demi Moore
 680,7.0,Drama,80000000.0,2,1173,Mark Margolis
 681,6.5,Drama,50000000.0,2,6951,W. Earl Brown
-682,6.5,Drama,110000000.0,2,352,Dennis Haysbert
+682,6.5,Animation,110000000.0,2,352,Dennis Haysbert
 683,6.0,Action,20000000.0,2,4443,Christopher McDonald
 684,6.5,Drama,100000000.0,2,540,Callum Keith Rennie
 685,6.0,Comedy,120000000.0,2,11512,John Heard
@@ -700,7 +700,7 @@
 698,7.0,Drama,130000000.0,2,73421,Joaquin Phoenix
 699,6.5,Drama,90000000.0,2,1983,Vincent Laresca
 700,6.5,Drama,70000000.0,2,1646,Udo Kier
-701,6.5,Drama,50000000.0,2,22227,Christopher Meloni
+701,6.5,Comedy,50000000.0,2,22227,Christopher Meloni
 702,7.0,Drama,10000000.0,1,1902,Dianne Wiest
 703,6.5,Action,330000000.0,2,96066,Liam Hemsworth
 704,6.0,Comedy,190000000.0,2,59919,Russell Brand
@@ -712,7 +712,7 @@
 710,6.5,Action,120000000.0,2,12132,Michael Rooker
 711,6.0,Action,70000000.0,2,150,RZA
 712,7.0,Drama,90000000.0,2,8289,Billy Crudup
-713,6.0,Comedy,190000000.0,2,32895,Kevin James
+713,6.0,Animation,190000000.0,2,32895,Kevin James
 714,6.5,Action,40000000.0,2,4886,Norman Reedus
 715,6.5,Comedy,100000000.0,1,3127,Lili Taylor
 716,6.5,Comedy,90000000.0,1,52848,Isla Fisher
@@ -720,7 +720,7 @@
 718,6.5,Horror,160000000.0,2,19384,Tony Todd
 719,6.0,Comedy,130000000.0,1,77948,Selena Gomez
 720,6.5,Drama,110000000.0,2,29234,Joe Anderson
-721,6.0,Drama,100000000.0,1,1951,Elisabeth Shue
+721,6.0,Horror,100000000.0,1,1951,Elisabeth Shue
 722,6.5,Comedy,60000000.0,1,62595,Mary Pat Gleason
 723,6.5,Drama,20000000.0,2,19453,Tom Bower
 724,6.0,Action,60000000.0,2,8687,Chi McBride
@@ -739,7 +739,7 @@
 737,7.0,Drama,30000000.0,1,39658,Sally Hawkins
 738,7.0,Drama,40000000.0,2,1164,F. Murray Abraham
 739,6.0,Comedy,30000000.0,2,71530,Romany Malco
-740,6.0,Adventure,70000000.0,2,519,Martin Short
+740,6.0,Animation,70000000.0,2,519,Martin Short
 741,7.0,Crime,90000000.0,2,138,Quentin Tarantino
 742,6.5,Comedy,220000000.0,2,6730,Sacha Baron Cohen
 743,6.5,Comedy,120000000.0,2,6008,Harry Shearer
@@ -759,9 +759,9 @@
 757,6.5,Comedy,90000000.0,1,7404,Sarah Silverman
 758,7.0,Comedy,70000000.0,2,17449,Bob Stephenson
 759,6.5,Drama,350000000.0,1,18997,Bryce Dallas Howard
-760,6.0,Comedy,20000000.0,2,26485,Jim Belushi
-761,6.0,Action,150000000.0,1,21045,Maggie Q
-762,6.5,Adventure,240000000.0,1,47468,Frances de la Tour
+760,6.0,Animation,20000000.0,2,26485,Jim Belushi
+761,6.0,Adventure,150000000.0,1,21045,Maggie Q
+762,6.5,Comedy,240000000.0,1,47468,Frances de la Tour
 763,6.5,Family,410000000.0,2,12098,Chris Miller
 764,6.5,Drama,110000000.0,2,94432,Adrian Martinez
 765,6.5,Comedy,30000000.0,2,8945,Kevin Kline
@@ -781,7 +781,7 @@
 779,6.5,Comedy,80000000.0,1,35705,Regina Hall
 780,7.0,Comedy,130000000.0,2,18070,Nicky Katt
 781,6.5,Comedy,150000000.0,1,9994,Helen Hunt
-782,6.5,Drama,-0.0,2,2641,Martin Landau
+782,6.5,Comedy,-0.0,2,2641,Martin Landau
 783,6.5,Comedy,130000000.0,1,69122,Heather Graham
 784,6.0,Comedy,10000000.0,1,67599,Vanessa Hudgens
 785,6.5,Animation,340000000.0,2,5724,Denis Leary
@@ -792,7 +792,7 @@
 790,6.0,Comedy,180000000.0,2,5726,Cedric the Entertainer
 791,6.5,Comedy,50000000.0,2,1466,Charles Durning
 792,7.0,Drama,50000000.0,1,1909,Conchata Ferrell
-793,6.5,Comedy,50000000.0,1,43366,Ann Dowd
+793,6.5,Drama,50000000.0,1,43366,Ann Dowd
 794,6.0,Drama,20000000.0,2,101847,Lance E. Nichols
 795,6.5,Action,160000000.0,2,112692,Robert Maillet
 796,6.5,Action,120000000.0,2,8977,Craig T. Nelson
@@ -800,7 +800,7 @@
 798,6.0,Comedy,70000000.0,2,38405,John Corbett
 799,6.0,Horror,40000000.0,2,5139,Robert Englund
 800,6.0,Comedy,30000000.0,2,49002,Donald Faison
-801,6.0,Comedy,190000000.0,2,60074,Jeff Garlin
+801,6.0,Animation,190000000.0,2,60074,Jeff Garlin
 802,6.5,Drama,130000000.0,2,11279,Roger Allam
 803,6.5,Comedy,110000000.0,2,14639,Mel Brooks
 804,6.5,Comedy,150000000.0,2,22970,Peter Dinklage
@@ -826,7 +826,7 @@
 824,6.5,Animation,190000000.0,2,24362,Kevin Michael Richardson
 825,6.5,Adventure,110000000.0,2,2169,Michael Jeter
 826,6.5,Action,240000000.0,2,2256,Robert Clohessy
-827,6.5,Drama,30000000.0,2,10692,Michael Pitt
+827,6.5,Comedy,30000000.0,2,10692,Michael Pitt
 828,7.0,Animation,240000000.0,2,8655,R. Lee Ermey
 829,6.0,Comedy,70000000.0,1,4939,Téa Leoni
 830,6.0,Comedy,80000000.0,2,2876,Matt Dillon
@@ -836,13 +836,13 @@
 834,6.5,Adventure,80000000.0,2,327,Mekhi Phifer
 835,6.5,Action,200000000.0,2,202032,Ralph Ineson
 836,7.0,Action,330000000.0,2,1371,David Wenham
-837,6.5,Comedy,120000000.0,1,15899,Jenifer Lewis
+837,6.5,Animation,120000000.0,1,15899,Jenifer Lewis
 838,6.0,Drama,80000000.0,1,17265,Hayden Panettiere
 839,6.0,Action,220000000.0,2,224181,Jai Courtney
 840,6.0,Comedy,130000000.0,1,81364,Olivia Munn
 841,6.5,Animation,50000000.0,2,28010,David Ogden Stiers
 842,6.5,Comedy,40000000.0,1,17486,Alison Pill
-843,5.5,Action,60000000.0,1,58393,Crystal Lowe
+843,5.5,Horror,60000000.0,1,58393,Crystal Lowe
 844,6.5,Comedy,140000000.0,2,11678,Rainn Wilson
 845,6.5,Adventure,150000000.0,2,1065,Thomas F. Wilson
 846,6.0,Horror,90000000.0,1,17303,Ali Larter
@@ -854,8 +854,8 @@
 852,7.0,Drama,140000000.0,2,1173099,Christopher Berry
 853,6.5,Action,190000000.0,2,59233,Scoot McNairy
 854,6.5,Drama,50000000.0,2,3547,Ian McNeice
-855,6.5,Drama,200000000.0,2,15318,Keith Campbell
-856,6.5,Drama,50000000.0,2,5170,Mike Starr
+855,6.5,Action,200000000.0,2,15318,Keith Campbell
+856,6.5,Comedy,50000000.0,2,5170,Mike Starr
 857,6.5,Drama,160000000.0,2,16841,Brett Cullen
 858,5.5,Comedy,70000000.0,1,25541,Katherine Heigl
 859,6.5,Drama,190000000.0,2,3977,Joe Morton
@@ -883,24 +883,24 @@
 881,6.5,Comedy,40000000.0,1,60073,Brie Larson
 882,6.0,Action,30000000.0,2,61704,Al Leong
 883,6.5,Adventure,400000000.0,2,4030,Martin Klebba
-884,7.0,Comedy,200000000.0,2,7904,Billy Crystal
-885,6.5,Thriller,50000000.0,2,4445,Chris Bauer
-886,6.5,Drama,280000000.0,2,2219,Tobey Maguire
+884,7.0,Animation,200000000.0,2,7904,Billy Crystal
+885,6.5,Comedy,50000000.0,2,4445,Chris Bauer
+886,6.5,Action,280000000.0,2,2219,Tobey Maguire
 887,6.5,Comedy,130000000.0,2,5377,Ato Essandoh
 888,6.5,Drama,40000000.0,2,35521,Matt Winston
 889,5.5,Adventure,330000000.0,2,84214,Taylor Lautner
 890,6.0,Adventure,110000000.0,1,59620,Gemma Arterton
 891,6.0,Horror,60000000.0,2,17866,Jon Abrahams
-892,6.0,Comedy,60000000.0,1,2109,Kim Cattrall
+892,6.0,Action,60000000.0,1,2109,Kim Cattrall
 893,7.5,Animation,330000000.0,2,61969,Phil Proctor
 894,6.5,Comedy,130000000.0,1,80591,Rashida Jones
 895,6.5,Action,240000000.0,2,2221,Leland Orser
-896,6.5,Horror,370000000.0,2,17181,Ty Simpkins
+896,6.5,Romance,370000000.0,2,17181,Ty Simpkins
 897,6.5,Drama,50000000.0,2,11315,Noah Emmerich
 898,6.5,Drama,300000000.0,2,1954,Billy Zane
 899,7.0,Drama,110000000.0,2,40311,Adrian Scarborough
 900,7.0,Action,220000000.0,2,27031,Tim Griffin
-901,6.5,Action,30000000.0,2,21675,Jack Conley
+901,6.5,Horror,30000000.0,2,21675,Jack Conley
 902,6.5,Drama,160000000.0,2,37625,Andrew Garfield
 903,6.0,Comedy,70000000.0,1,11318,Holland Taylor
 904,6.0,Action,10000000.0,2,87003,Curtis Armstrong
@@ -912,11 +912,11 @@
 910,6.5,Adventure,300000000.0,1,502,Miranda Otto
 911,6.0,Comedy,70000000.0,1,4496,Nora Dunn
 912,6.5,Comedy,20000000.0,1,17488,Alice Drummond
-913,6.5,Comedy,30000000.0,2,26860,John Sessions
+913,6.5,Drama,30000000.0,2,26860,John Sessions
 914,6.5,Comedy,300000000.0,2,452205,Bobby Moynihan
 915,6.0,Comedy,40000000.0,1,56358,Patricia Belcher
-916,6.5,War,140000000.0,2,8318,Brian Blessed
-917,7.0,Drama,210000000.0,2,10657,Shane Rimmer
+916,6.5,Animation,140000000.0,2,8318,Brian Blessed
+917,7.0,Action,210000000.0,2,10657,Shane Rimmer
 918,7.0,Drama,110000000.0,2,2141,Ned Bellamy
 919,7.0,Drama,180000000.0,2,937,Derek Jacobi
 920,7.0,Drama,190000000.0,1,4784,Laura Dern
@@ -926,7 +926,7 @@
 924,6.5,Drama,30000000.0,2,12122,Ron Rifkin
 925,6.0,Comedy,50000000.0,1,520,Sarah Jessica Parker
 926,6.0,Comedy,20000000.0,2,87192,Mike O'Malley
-927,6.5,Drama,110000000.0,1,59174,America Ferrera
+927,6.5,Comedy,110000000.0,1,59174,America Ferrera
 928,6.5,Comedy,140000000.0,1,10401,Blythe Danner
 929,6.5,Drama,140000000.0,2,1926,Eddie Izzard
 930,6.5,Drama,140000000.0,2,15854,Ted Levine
@@ -942,18 +942,18 @@
 940,6.5,Comedy,190000000.0,2,8396,Tom Lister Jr.
 941,6.5,Comedy,70000000.0,2,3041,Marshall Bell
 942,6.0,Adventure,300000000.0,2,56857,Peter Facinelli
-943,6.5,Comedy,150000000.0,2,521,Michael J. Fox
+943,6.5,Adventure,150000000.0,2,521,Michael J. Fox
 944,6.5,Comedy,20000000.0,1,6913,Ellen Barkin
 945,6.5,Comedy,90000000.0,2,1211,Larry Miller
 946,6.0,Comedy,190000000.0,1,475512,Ellie Kemper
 947,6.5,Comedy,10000000.0,2,20243,Roger Ashton-Griffiths
 948,6.5,Action,80000000.0,2,925,Paul Guilfoyle
-949,7.0,Drama,150000000.0,2,29237,Leo Bill
+949,7.0,Horror,150000000.0,2,29237,Leo Bill
 950,6.0,Action,170000000.0,2,429,Lucas Till
-951,6.5,Drama,130000000.0,2,17859,Wendell Pierce
+951,6.5,Action,130000000.0,2,17859,Wendell Pierce
 952,6.5,Action,110000000.0,2,6614,Cole Hauser
 953,6.0,Action,130000000.0,2,9626,Rip Torn
-954,7.0,Comedy,50000000.0,1,36592,Saoirse Ronan
+954,7.0,Drama,50000000.0,1,36592,Saoirse Ronan
 955,6.0,Action,120000000.0,2,478,Jamie Bell
 956,6.5,Drama,60000000.0,2,1039,Peter Boyle
 957,6.0,Action,130000000.0,2,12371,Richard Cetrone
@@ -961,21 +961,21 @@
 959,6.5,Drama,80000000.0,2,17183,Jackie Earle Haley
 960,6.5,Comedy,40000000.0,2,21142,Gregory Itzin
 961,6.0,Action,-10000000.0,2,37027,Lew Temple
-962,6.5,Action,240000000.0,2,9462,Randall Duk Kim
-963,6.5,Thriller,160000000.0,1,46814,Dale Dickey
+962,6.5,Adventure,240000000.0,2,9462,Randall Duk Kim
+963,6.5,Comedy,160000000.0,1,46814,Dale Dickey
 964,6.5,Drama,90000000.0,2,6067,Jay O. Sanders
 965,5.5,Comedy,80000000.0,1,1234,Tara Reid
-966,6.0,Fantasy,200000000.0,1,20,Elizabeth Perkins
+966,6.0,Animation,200000000.0,1,20,Elizabeth Perkins
 967,6.0,Comedy,20000000.0,2,84407,Jim Gaffigan
 968,6.5,Action,150000000.0,2,777,Judge Reinhold
 969,7.0,Drama,30000000.0,2,40377,Roger Guenveur Smith
 970,7.0,Drama,490000000.0,2,1369,Bernard Hill
 971,6.0,Comedy,60000000.0,1,11826,Selma Blair
 972,6.0,Action,110000000.0,2,3798,Pat Hingle
-973,7.0,Drama,130000000.0,2,58475,Angus MacInnes
+973,7.0,Action,130000000.0,2,58475,Angus MacInnes
 974,6.5,Action,100000000.0,2,1402117,Kerry Rossall
 975,6.5,Comedy,20000000.0,2,19302,Jason Mewes
-976,6.5,Drama,190000000.0,2,6804,Graham Greene
+976,6.5,Adventure,190000000.0,2,6804,Graham Greene
 977,7.0,Comedy,130000000.0,2,28847,Rafe Spall
 978,6.5,Action,30000000.0,2,31512,Robert John Burke
 979,6.5,Drama,40000000.0,2,86237,Joe Pingue
@@ -1004,25 +1004,25 @@
 1002,7.0,Drama,20000000.0,2,2839,Brendan Sexton III
 1003,6.0,Adventure,320000000.0,2,52414,Cameron Bright
 1004,7.0,Drama,100000000.0,1,9015,Kelly Macdonald
-1005,6.5,Drama,100000000.0,2,18023,Robert Carlyle
+1005,6.5,Comedy,100000000.0,2,18023,Robert Carlyle
 1006,7.0,Action,130000000.0,1,11148,Joan Allen
 1007,6.0,Crime,20000000.0,1,3128,Alicia Witt
 1008,6.0,Action,90000000.0,1,18182,Olga Kurylenko
 1009,6.5,Action,170000000.0,1,14343,Rene Russo
 1010,6.0,Comedy,150000000.0,2,60950,David Spade
 1011,7.0,Drama,70000000.0,2,22250,Rance Howard
-1012,6.5,Drama,320000000.0,2,60898,Sebastian Stan
+1012,6.5,Action,320000000.0,2,60898,Sebastian Stan
 1013,6.0,Horror,60000000.0,2,15234,David Arquette
 1014,6.5,Horror,50000000.0,2,9029,Stephen Rea
 1015,6.0,Animation,90000000.0,1,15274,E.G. Daily
 1016,6.5,Drama,100000000.0,1,18284,Loretta Devine
-1017,6.5,Adventure,330000000.0,1,28782,Monica Bellucci
+1017,6.5,Drama,330000000.0,1,28782,Monica Bellucci
 1018,6.5,Comedy,70000000.0,2,1263449,Curt Clendenin
 1019,6.0,Comedy,30000000.0,1,8256,Anne Heche
-1020,7.0,Drama,110000000.0,2,3084,Marlon Brando
+1020,7.0,Action,110000000.0,2,3084,Marlon Brando
 1021,6.0,Comedy,60000000.0,1,22082,Lacey Chabert
 1022,6.5,Drama,240000000.0,2,54415,Josh Gad
-1023,6.5,Drama,60000000.0,2,11161,Tom Savini
+1023,6.5,Horror,60000000.0,2,11161,Tom Savini
 1024,6.5,Comedy,30000000.0,1,9781,Nia Long
 1025,6.5,Comedy,110000000.0,2,80595,Rob Huebel
 1026,6.5,Action,80000000.0,1,5915,Jaime King
@@ -1030,7 +1030,7 @@
 1028,7.0,Adventure,270000000.0,1,15737,Helen McCrory
 1029,7.0,Drama,20000000.0,1,5644,Alexandra Maria Lara
 1030,6.5,Drama,80000000.0,2,8689,Barry Shabaka Henley
-1031,7.0,Drama,330000000.0,2,75076,Bronson Webb
+1031,7.0,Adventure,330000000.0,2,75076,Bronson Webb
 1032,7.5,Adventure,670000000.0,2,96841,Matthew Lewis
 1033,6.5,Drama,40000000.0,1,53923,Aunjanue Ellis
 1034,6.0,Thriller,10000000.0,2,18313,Michael Rispoli
@@ -1055,11 +1055,11 @@
 1053,6.5,Thriller,230000000.0,2,1897,Bernie Mac
 1054,6.5,Comedy,240000000.0,2,107770,B. J. Novak
 1055,6.5,Action,300000000.0,2,8399,Christopher Fairbank
-1056,6.5,Adventure,240000000.0,2,10730,Rowan Atkinson
+1056,6.5,Comedy,240000000.0,2,10730,Rowan Atkinson
 1057,7.0,Drama,130000000.0,2,12538,Nick Searcy
-1058,6.5,Drama,160000000.0,2,9979,Peter Coyote
+1058,6.5,Comedy,160000000.0,2,9979,Peter Coyote
 1059,6.0,Comedy,70000000.0,2,113373,Mike Birbiglia
-1060,6.0,Comedy,320000000.0,1,3202,Edie McClurg
+1060,6.0,Animation,320000000.0,1,3202,Edie McClurg
 1061,7.0,Adventure,320000000.0,2,740,Julian Glover
 1062,6.0,Comedy,150000000.0,2,35806,Shaquille O'Neal
 1063,6.5,Comedy,70000000.0,2,21523,Ed Lauter
@@ -1069,8 +1069,8 @@
 1067,6.0,Action,130000000.0,2,47296,Jeffrey Dean Morgan
 1068,6.5,Drama,60000000.0,1,31717,January Jones
 1069,6.0,Comedy,170000000.0,2,21315,Eric Roberts
-1070,6.5,Drama,40000000.0,2,8445,Michael Culkin
-1071,6.5,Adventure,50000000.0,1,59175,Blake Lively
+1070,6.5,Comedy,40000000.0,2,8445,Michael Culkin
+1071,6.5,Crime,50000000.0,1,59175,Blake Lively
 1072,7.0,History,80000000.0,2,239271,Jeremy Strong
 1073,6.0,Action,160000000.0,2,58758,Deobia Oparei
 1074,7.0,Drama,140000000.0,2,827,Elliott Gould
@@ -1078,7 +1078,7 @@
 1076,6.0,Action,70000000.0,1,38425,Amber Valletta
 1077,6.5,Drama,140000000.0,1,47627,Janet McTeer
 1078,7.0,Drama,180000000.0,2,18052,Nathan Gamble
-1079,6.0,Comedy,70000000.0,1,21197,Janeane Garofalo
+1079,6.0,Animation,70000000.0,1,21197,Janeane Garofalo
 1080,7.0,Drama,60000000.0,1,1249,Penelope Wilton
 1081,6.0,Comedy,30000000.0,2,42157,Ed Begley Jr.
 1082,6.5,Action,60000000.0,2,2203,Neal McDonough
@@ -1103,7 +1103,7 @@
 1101,6.5,Drama,20000000.0,2,258,Gael García Bernal
 1102,6.5,Horror,140000000.0,1,2138,Shawnee Smith
 1103,7.0,Science Fiction,130000000.0,2,30082,Benedict Wong
-1104,7.0,Comedy,420000000.0,2,1328,Sean Astin
+1104,7.0,Adventure,420000000.0,2,1328,Sean Astin
 1105,7.0,Crime,10000000.0,2,2561,Victor Argo
 1106,7.5,Drama,80000000.0,2,58535,Paul Herman
 1107,6.5,Drama,20000000.0,1,35515,June Squibb
@@ -1114,7 +1114,7 @@
 1112,6.0,Comedy,50000000.0,2,86626,Aziz Ansari
 1113,6.0,Comedy,70000000.0,1,52775,Kristin Chenoweth
 1114,7.0,Comedy,110000000.0,2,3418,Vincent Schiavelli
-1115,6.5,Science Fiction,140000000.0,2,155077,Stevie Ray Dallimore
+1115,6.5,Drama,140000000.0,2,155077,Stevie Ray Dallimore
 1116,7.0,Drama,50000000.0,2,11663,Patrick Fugit
 1117,6.5,Adventure,180000000.0,2,43776,Neil Flynn
 1118,7.5,Adventure,640000000.0,2,10989,Rupert Grint
@@ -1124,14 +1124,14 @@
 1122,7.0,Action,130000000.0,2,10000,Gregory Sporleder
 1123,7.0,Drama,130000000.0,1,9560,Ellen Burstyn
 1124,6.0,Adventure,360000000.0,2,21029,Billy Burke
-1125,6.5,Drama,120000000.0,1,52404,Mae Whitman
+1125,6.5,Action,120000000.0,1,52404,Mae Whitman
 1126,6.0,Action,380000000.0,1,90633,Gal Gadot
 1127,6.0,Action,40000000.0,2,222121,Ben Schwartz
 1128,6.5,Horror,40000000.0,1,17606,Imogen Poots
 1129,6.0,Action,60000000.0,2,17403,Mike Judge
 1130,6.5,Drama,60000000.0,2,1244,Jonathan Rhys Meyers
 1131,6.5,Action,100000000.0,2,56448,Jeff Chase
-1132,6.5,Comedy,80000000.0,2,10825,Donal Logue
+1132,6.5,Drama,80000000.0,2,10825,Donal Logue
 1133,6.5,Action,80000000.0,2,206398,John Cenatiempo
 1134,6.5,Comedy,50000000.0,1,25884,Mary Lynn Rajskub
 1135,7.0,Animation,600000000.0,2,157626,Jan Rabson
@@ -1157,11 +1157,11 @@
 1155,6.0,Action,20000000.0,2,27104,Johnny Simmons
 1156,6.5,Comedy,220000000.0,2,17200,Bill Smitrovich
 1157,6.0,Action,100000000.0,2,84497,Aaron Paul
-1158,7.0,Comedy,40000000.0,2,4253,Jon Polito
+1158,7.0,Drama,40000000.0,2,4253,Jon Polito
 1159,7.0,Drama,150000000.0,2,4135,Robert Redford
 1160,6.0,Horror,130000000.0,2,19487,Jay Hernandez
 1161,6.5,Comedy,50000000.0,1,16858,Lauren Graham
-1162,7.0,Drama,170000000.0,2,30488,Miguel Sandoval
+1162,7.0,Horror,170000000.0,2,30488,Miguel Sandoval
 1163,7.0,Thriller,70000000.0,2,3265,Eli Wallach
 1164,6.5,Drama,170000000.0,2,19489,Peter McRobbie
 1165,6.0,Action,130000000.0,2,1003,Jean Reno
@@ -1179,37 +1179,37 @@
 1177,6.5,Drama,130000000.0,1,20494,Zoë Bell
 1178,6.5,Action,90000000.0,2,980,Vinnie Jones
 1179,6.5,Action,80000000.0,2,43547,Nonso Anozie
-1180,6.0,Drama,50000000.0,2,10814,Wesley Snipes
+1180,6.0,Horror,50000000.0,2,10814,Wesley Snipes
 1181,6.5,Comedy,110000000.0,2,66580,Scott Adsit
 1182,7.0,Drama,70000000.0,2,8688,Diego Luna
 1183,7.0,Drama,230000000.0,1,15250,Hope Davis
 1184,6.0,Comedy,150000000.0,1,51456,Rhoda Griffis
-1185,6.0,Adventure,300000000.0,2,31365,John Kassir
+1185,6.0,Animation,300000000.0,2,31365,John Kassir
 1186,6.5,Action,150000000.0,2,1067,Marc McClure
-1187,6.5,Comedy,100000000.0,1,381,Katherine Helmond
+1187,6.5,Animation,100000000.0,1,381,Katherine Helmond
 1188,6.5,Adventure,470000000.0,2,12097,Christopher Knights
 1189,6.0,Comedy,70000000.0,2,54720,Steve Bannos
 1190,6.5,Science Fiction,80000000.0,2,1754,Walter Koenig
 1191,6.0,Action,80000000.0,1,110742,Tika Sumpter
-1192,6.0,Science Fiction,190000000.0,2,20220,Elden Henson
-1193,6.0,Adventure,270000000.0,2,17838,Rami Malek
+1192,6.0,Comedy,190000000.0,2,20220,Elden Henson
+1193,6.0,Action,270000000.0,2,17838,Rami Malek
 1194,6.0,Adventure,80000000.0,2,10134,Mako
 1195,5.5,Action,40000000.0,2,41883,Max Thieriot
 1196,6.0,Action,50000000.0,1,17352,Marianne Jean-Baptiste
 1197,6.5,Adventure,450000000.0,2,11288,Robert Pattinson
-1198,6.5,Drama,180000000.0,2,3497,Kyle Chandler
+1198,6.5,Thriller,180000000.0,2,3497,Kyle Chandler
 1199,6.0,Comedy,60000000.0,1,50463,Malin Åkerman
-1200,5.5,Mystery,70000000.0,2,33260,Freddie Prinze Jr.
+1200,5.5,Horror,70000000.0,2,33260,Freddie Prinze Jr.
 1201,6.0,Action,190000000.0,2,920,Jürgen Prochnow
-1202,7.0,Drama,90000000.0,2,52057,Obba Babatundé
+1202,7.0,Comedy,90000000.0,2,52057,Obba Babatundé
 1203,6.0,Fantasy,90000000.0,2,2629,Alun Armstrong
 1204,6.0,Comedy,180000000.0,1,13924,Mindy Sterling
 1205,6.5,Drama,40000000.0,1,13549,Deborah Kara Unger
-1206,6.5,Drama,90000000.0,2,9013,Kevin McKidd
+1206,6.5,Comedy,90000000.0,2,9013,Kevin McKidd
 1207,6.5,Drama,110000000.0,2,8767,Jim Caviezel
 1208,6.0,Drama,30000000.0,1,12519,Virginia Madsen
 1209,6.0,Comedy,20000000.0,1,85825,Leighton Meester
-1210,7.0,Drama,160000000.0,2,3801,Tracey Walter
+1210,7.0,Comedy,160000000.0,2,3801,Tracey Walter
 1211,6.5,Comedy,90000000.0,2,7868,Maury Chaykin
 1212,6.0,Comedy,60000000.0,2,2222,Beau Bridges
 1213,6.5,Action,70000000.0,1,935,Connie Nielsen
@@ -1235,7 +1235,7 @@
 1233,6.0,Comedy,80000000.0,2,12795,Nikolaj Coster-Waldau
 1234,7.0,Comedy,110000000.0,2,2131,Ken Leung
 1235,6.0,Comedy,50000000.0,2,15009,Justin Theroux
-1236,6.5,Music,140000000.0,2,5129,Paul Reubens
+1236,6.5,Animation,140000000.0,2,5129,Paul Reubens
 1237,6.5,Action,290000000.0,2,9464,Harry Lennix
 1238,6.5,Action,160000000.0,2,1162,Robert Loggia
 1239,6.5,Horror,140000000.0,2,4139,Tom Skerritt
@@ -1255,12 +1255,12 @@
 1253,6.5,Action,120000000.0,2,8335,Kim Coates
 1254,6.5,Drama,60000000.0,2,6181,Josh Pais
 1255,6.0,Action,80000000.0,2,18461,Nick Chinlund
-1256,6.5,Action,10000000.0,1,18248,Mary-Louise Parker
+1256,6.5,Comedy,10000000.0,1,18248,Mary-Louise Parker
 1257,6.5,Comedy,30000000.0,1,58068,Fionnula Flanagan
-1258,7.0,Drama,130000000.0,2,16119,Charles Napier
+1258,7.0,Music,130000000.0,2,16119,Charles Napier
 1259,6.0,Comedy,60000000.0,2,77089,Ken Marino
 1260,6.5,Action,150000000.0,1,2207,Lois Smith
-1261,6.5,Action,120000000.0,2,54729,Clark Duke
+1261,6.5,Comedy,120000000.0,2,54729,Clark Duke
 1262,6.5,Comedy,70000000.0,2,42993,Martin Donovan
 1263,6.0,Comedy,270000000.0,1,19537,Megan Fox
 1264,6.5,Horror,50000000.0,2,65808,Fulvio Cecere
@@ -1273,16 +1273,16 @@
 1271,7.0,Comedy,110000000.0,2,19468,Gerry Becker
 1272,6.5,Drama,90000000.0,2,16459,John McConnell
 1273,6.5,Drama,30000000.0,2,61607,Adam LeFevre
-1274,7.0,Drama,110000000.0,2,781,Paul Reiser
+1274,7.0,Comedy,110000000.0,2,781,Paul Reiser
 1275,6.0,Action,90000000.0,1,589162,Génesis Rodríguez
 1276,6.5,Drama,90000000.0,2,12889,Ray Baker
 1277,7.0,Horror,370000000.0,2,80619,Steve Coulter
 1278,6.5,Comedy,30000000.0,2,1243,Woody Allen
 1279,6.0,Adventure,150000000.0,1,10912,Eva Green
 1280,6.5,Comedy,110000000.0,2,72873,Michael Stuhlbarg
-1281,6.5,Drama,60000000.0,2,20766,Richard E. Grant
+1281,6.5,Romance,60000000.0,2,20766,Richard E. Grant
 1282,6.0,Action,120000000.0,2,62892,Anatole Taubman
-1283,7.0,Drama,150000000.0,2,4012,Spencer Treat Clark
+1283,7.0,Horror,150000000.0,2,4012,Spencer Treat Clark
 1284,6.5,Fantasy,150000000.0,1,4568,Jayne Eastwood
 1285,6.5,Drama,50000000.0,2,19903,Richard Bremmer
 1286,7.5,Adventure,750000000.0,1,10991,Bonnie Wright
@@ -1290,8 +1290,8 @@
 1288,7.0,Adventure,410000000.0,2,25136,Ken Stott
 1289,6.5,Comedy,20000000.0,1,14984,Jessica Hecht
 1290,6.5,Horror,20000000.0,1,27755,Melissa George
-1291,6.5,Drama,40000000.0,2,1023139,Adam Driver
-1292,6.0,Thriller,40000000.0,2,54247,Aaron Yoo
+1291,6.5,Comedy,40000000.0,2,1023139,Adam Driver
+1292,6.0,Comedy,40000000.0,2,54247,Aaron Yoo
 1293,6.0,Comedy,110000000.0,1,21596,Shannon Elizabeth
 1294,6.0,Action,130000000.0,2,81097,Shawn Roberts
 1295,7.0,Animation,320000000.0,1,12133,Laurie Metcalf
@@ -1305,7 +1305,7 @@
 1303,6.5,Drama,40000000.0,1,17479,Matyelok Gibbs
 1304,6.5,Comedy,40000000.0,1,8893,Stockard Channing
 1305,6.5,Comedy,30000000.0,2,14886,Craig Bierko
-1306,7.0,Science Fiction,450000000.0,1,47533,Paula Malcomson
+1306,7.0,Action,450000000.0,1,47533,Paula Malcomson
 1307,6.0,Thriller,110000000.0,1,4730,Emmy Rossum
 1308,6.0,Drama,120000000.0,1,52847,Joy Bryant
 1309,7.0,Drama,130000000.0,2,1292,James Fox
@@ -1313,7 +1313,7 @@
 1311,6.5,Action,270000000.0,2,1580574,Gary Sievers
 1312,6.0,Adventure,60000000.0,2,4455,Ulrich Thomsen
 1313,6.5,Comedy,60000000.0,2,141034,Billy Magnussen
-1314,6.0,Action,190000000.0,2,9831,Vincent Regan
+1314,6.0,Adventure,190000000.0,2,9831,Vincent Regan
 1315,6.0,Comedy,50000000.0,2,65598,Tony Jay
 1316,7.0,Science Fiction,70000000.0,2,1820,Mark Lenard
 1317,6.0,Drama,10000000.0,1,400,Geraldine Chaplin
@@ -1340,7 +1340,7 @@
 1338,6.0,Comedy,130000000.0,2,52860,Judah Friedlander
 1339,7.0,Drama,80000000.0,2,29685,Kurt Fuller
 1340,7.0,Drama,90000000.0,2,23608,Colin Stinton
-1341,7.0,Action,130000000.0,2,79025,Don McManus
+1341,7.0,Comedy,130000000.0,2,79025,Don McManus
 1342,6.0,Action,70000000.0,2,14328,Steve Kahan
 1343,6.0,Action,30000000.0,2,4602,Jon Tenney
 1344,6.0,Action,70000000.0,2,74036,Tom Arnold
@@ -1353,7 +1353,7 @@
 1351,6.5,Action,230000000.0,2,932967,Mahershala Ali
 1352,6.0,Fantasy,170000000.0,2,19754,Tony Cox
 1353,7.0,Drama,70000000.0,2,7004,Paul Sorvino
-1354,7.0,Drama,110000000.0,1,21165,Kim Dickens
+1354,7.0,Action,110000000.0,1,21165,Kim Dickens
 1355,6.5,Comedy,110000000.0,2,6541,Philip Bosco
 1356,6.0,Comedy,30000000.0,2,26472,Steve Guttenberg
 1357,6.0,Drama,10000000.0,2,20814,Gregory Smith
@@ -1371,38 +1371,38 @@
 1369,7.0,Crime,50000000.0,2,1986,Peter Gerety
 1370,6.0,Drama,250000000.0,2,11614,M. Night Shyamalan
 1371,6.5,Drama,200000000.0,2,17839,Pierfrancesco Favino
-1372,6.0,Adventure,60000000.0,2,105727,Jake Abel
-1373,6.5,Drama,200000000.0,2,53257,Emilio Rivera
-1374,7.0,Science Fiction,30000000.0,2,43464,John Patrick Amedori
+1372,6.0,Action,60000000.0,2,105727,Jake Abel
+1373,6.5,Action,200000000.0,2,53257,Emilio Rivera
+1374,7.0,Action,30000000.0,2,43464,John Patrick Amedori
 1375,7.0,Drama,90000000.0,1,13309,Oprah Winfrey
 1376,6.0,Adventure,390000000.0,1,59252,Nikki Reed
 1377,6.0,Comedy,10000000.0,2,26473,Fisher Stevens
 1378,7.0,Drama,50000000.0,2,59285,Ezra Buzzington
 1379,6.5,Action,40000000.0,2,28410,Jake Busey
 1380,6.0,Drama,220000000.0,2,17343,Robert Knepper
-1381,6.0,Drama,40000000.0,2,963962,Fred Keating
+1381,6.0,Comedy,40000000.0,2,963962,Fred Keating
 1382,6.5,Action,90000000.0,2,28413,Carmen Argenziano
 1383,6.0,Comedy,90000000.0,2,14833,Harold Gould
 1384,6.5,Drama,430000000.0,2,10964,Laz Alonso
-1385,6.5,Drama,150000000.0,2,10727,John Hannah
-1386,6.5,Comedy,80000000.0,2,2880,Emilio Estevez
+1385,6.5,Adventure,150000000.0,2,10727,John Hannah
+1386,6.5,Adventure,80000000.0,2,2880,Emilio Estevez
 1387,6.0,Fantasy,140000000.0,2,10713,Eric Idle
 1388,6.5,Drama,60000000.0,1,14698,Penelope Ann Miller
-1389,6.5,Science Fiction,460000000.0,2,130081,Robin Atkin Downes
+1389,6.5,Action,460000000.0,2,130081,Robin Atkin Downes
 1390,6.5,Comedy,70000000.0,2,41089,Martin Starr
 1391,6.0,Comedy,60000000.0,2,79082,Randall Park
-1392,6.0,Action,90000000.0,1,57192,Spencer Locke
+1392,6.0,Horror,90000000.0,1,57192,Spencer Locke
 1393,7.0,Comedy,120000000.0,1,7210,Kathleen Freeman
-1394,6.5,Drama,440000000.0,1,24305,Julie White
+1394,6.5,Animation,440000000.0,1,24305,Julie White
 1395,6.0,Drama,80000000.0,1,5578,Debi Mazar
-1396,6.0,Drama,50000000.0,2,2957,Alexander Siddig
+1396,6.0,Adventure,50000000.0,2,2957,Alexander Siddig
 1397,7.0,Drama,50000000.0,1,1984,Kimberly Scott
 1398,6.5,Drama,10000000.0,2,12150,Maximilian Schell
 1399,7.0,Adventure,360000000.0,2,1709,Jack Davenport
 1400,6.5,Comedy,0.0,1,53367,Ruth Sheen
 1401,6.0,Drama,40000000.0,2,60205,John Rothman
 1402,6.0,Comedy,40000000.0,2,43115,Clement von Franckenstein
-1403,6.5,Drama,50000000.0,2,62562,David Denman
+1403,6.5,Horror,50000000.0,2,62562,David Denman
 1404,6.5,Drama,110000000.0,2,1214974,Mark Smith
 1405,6.0,Horror,120000000.0,1,8338,Jodelle Ferland
 1406,6.5,Comedy,220000000.0,2,132157,Ezra Miller
@@ -1420,7 +1420,7 @@
 1418,7.0,Adventure,210000000.0,2,1714,Angus Barnett
 1419,6.5,Horror,170000000.0,2,2128,Leigh Whannell
 1420,6.0,Action,220000000.0,2,39391,Edi Gathegi
-1421,6.5,Drama,50000000.0,2,2694,Josh Charles
+1421,6.5,Action,50000000.0,2,2694,Josh Charles
 1422,7.0,Drama,100000000.0,2,945062,Ming Lo
 1423,6.0,Comedy,20000000.0,1,10437,Lily Tomlin
 1424,7.0,Adventure,200000000.0,2,2247,George Harris
@@ -1451,7 +1451,7 @@
 1449,6.5,Action,360000000.0,2,17857,Shaun Toub
 1450,7.0,Comedy,20000000.0,2,30328,Martin Savage
 1451,6.5,Action,90000000.0,2,14344,Stuart Wilson
-1452,6.5,Adventure,120000000.0,1,2506,Alice Krige
+1452,6.5,Drama,120000000.0,1,2506,Alice Krige
 1453,6.0,Comedy,20000000.0,2,7431,Kevin Zegers
 1454,7.0,Drama,80000000.0,2,5953,Spike Jonze
 1455,7.0,Drama,40000000.0,2,522,Rod Steiger
@@ -1464,15 +1464,15 @@
 1462,6.5,Drama,120000000.0,1,8602,Alice Braga
 1463,7.5,Drama,30000000.0,2,4692,Frank Adonis
 1464,6.0,Animation,90000000.0,1,52119,Megan Mullally
-1465,7.0,Drama,170000000.0,2,29934,Brett Rice
+1465,7.0,Comedy,170000000.0,2,29934,Brett Rice
 1466,6.0,Action,140000000.0,2,92404,Joel Kinnaman
 1467,6.0,Thriller,110000000.0,2,34515,Velibor Topic
-1468,6.5,Western,210000000.0,2,13548,James Spader
+1468,6.5,Comedy,210000000.0,2,13548,James Spader
 1469,6.5,Action,100000000.0,2,5563,James Coburn
 1470,6.0,Science Fiction,50000000.0,1,565501,Teri Wyble
 1471,7.0,Drama,120000000.0,2,65054,Rainer Bock
 1472,6.0,Drama,90000000.0,2,87070,Michael Chernus
-1473,6.5,Drama,180000000.0,1,2517,Donna Murphy
+1473,6.5,Action,180000000.0,1,2517,Donna Murphy
 1474,6.5,Animation,150000000.0,1,42160,Ariel Winter
 1475,7.0,Drama,130000000.0,2,742,Michael Byrne
 1476,6.5,Action,70000000.0,2,10841,Karel Roden
@@ -1506,12 +1506,12 @@
 1504,6.5,Drama,50000000.0,2,6858,Mike Vogel
 1505,6.5,Action,140000000.0,2,154883,Bodhi Elfman
 1506,6.5,Drama,130000000.0,1,6465,Grace Zabriskie
-1507,6.0,Comedy,110000000.0,1,149665,Kali Rocha
+1507,6.0,Drama,110000000.0,1,149665,Kali Rocha
 1508,6.5,Drama,50000000.0,2,100,Scott Speedman
 1509,6.0,Comedy,100000000.0,2,93846,Googy Gress
 1510,6.5,Comedy,170000000.0,2,15034,Jeremy Howard
 1511,6.5,Drama,90000000.0,2,37632,Eddie Redmayne
-1512,6.5,Comedy,400000000.0,2,44127,Larry King
+1512,6.5,Drama,400000000.0,2,44127,Larry King
 1513,7.0,Action,110000000.0,2,7471,Zach Grenier
 1514,6.0,Comedy,90000000.0,2,52480,Eddie Kaye Thomas
 1515,6.5,Drama,30000000.0,2,18992,Aidan Quinn
@@ -1521,7 +1521,7 @@
 1519,7.0,Action,190000000.0,2,35172,Robert Clotworthy
 1520,6.0,Comedy,90000000.0,1,50347,Rachel Nichols
 1521,6.5,Comedy,70000000.0,2,12850,Dabney Coleman
-1522,7.0,Drama,390000000.0,2,91606,Tom Hiddleston
+1522,7.0,Comedy,390000000.0,2,91606,Tom Hiddleston
 1523,6.5,Drama,80000000.0,2,52419,Josh Hamilton
 1524,7.0,Adventure,70000000.0,2,39185,Kevin Eldon
 1525,6.5,Thriller,50000000.0,2,12647,Armin Mueller-Stahl
@@ -1544,17 +1544,17 @@
 1542,6.5,Action,240000000.0,2,6167,Judd Hirsch
 1543,7.0,Adventure,220000000.0,2,488,Steven Spielberg
 1544,6.5,Thriller,50000000.0,2,88124,Jesse Plemons
-1545,6.0,Drama,90000000.0,2,15336,Dougray Scott
+1545,6.0,Action,90000000.0,2,15336,Dougray Scott
 1546,7.0,Action,260000000.0,2,40039,Josh Stewart
 1547,7.0,Comedy,220000000.0,1,234352,Margot Robbie
-1548,6.5,Drama,70000000.0,2,17782,Colm Meaney
+1548,6.5,Action,70000000.0,2,17782,Colm Meaney
 1549,7.0,Drama,170000000.0,2,1128450,Patrick McDade
-1550,6.5,Action,70000000.0,2,2464,Angus Macfadyen
+1550,6.5,Horror,70000000.0,2,2464,Angus Macfadyen
 1551,5.5,Comedy,110000000.0,2,51857,Tim Meadows
 1552,7.5,Adventure,750000000.0,2,96851,James Phelps
 1553,6.5,Drama,160000000.0,1,1956,Cherry Jones
 1554,6.5,Drama,160000000.0,2,53916,Ralph Brown
-1555,6.0,Drama,50000000.0,1,1518,Frances O'Connor
+1555,6.0,Comedy,50000000.0,1,1518,Frances O'Connor
 1556,6.5,Action,110000000.0,2,9258,Steven Ford
 1557,6.5,Drama,50000000.0,1,7465,Carrie Preston
 1558,6.5,Comedy,50000000.0,2,1503756,Clay Chamberlin
@@ -1562,10 +1562,10 @@
 1560,6.5,Action,200000000.0,2,1388891,Jozef Aoki
 1561,6.5,Action,190000000.0,2,10017,Charlton Heston
 1562,6.5,Adventure,90000000.0,2,12826,Charles Fleischer
-1563,7.0,Drama,260000000.0,1,427,Sandra Ellis Lafferty
+1563,7.0,Science Fiction,260000000.0,1,427,Sandra Ellis Lafferty
 1564,6.5,Action,160000000.0,1,58787,Giannina Facio
 1565,7.0,Drama,190000000.0,2,176191,Andrew Havill
-1566,6.5,Western,30000000.0,1,5025,Vinessa Shaw
+1566,6.5,Comedy,30000000.0,1,5025,Vinessa Shaw
 1567,5.5,Comedy,30000000.0,2,58563,David Alan Grier
 1568,7.0,Drama,50000000.0,1,2206,Samantha Morton
 1569,6.5,Drama,130000000.0,2,21710,Michael O'Neill
@@ -1582,13 +1582,13 @@
 1580,6.0,Action,180000000.0,1,59860,Alice Eve
 1581,7.0,Drama,160000000.0,2,940,John Shrapnel
 1582,6.5,Comedy,100000000.0,2,232006,Nat Wolff
-1583,7.0,Fantasy,230000000.0,2,24264,Craig Ferguson
+1583,7.0,Animation,230000000.0,2,24264,Craig Ferguson
 1584,6.5,Comedy,20000000.0,1,7796,Illeana Douglas
 1585,6.0,Action,120000000.0,2,9656,Johnny Knoxville
-1586,6.0,Action,100000000.0,2,1844,Til Schweiger
+1586,6.0,Comedy,100000000.0,2,1844,Til Schweiger
 1587,7.0,Drama,180000000.0,2,928572,Scott Eastwood
 1588,7.0,Action,380000000.0,2,1366,Sala Baker
-1589,6.5,Drama,40000000.0,2,4239,Yasiin Bey
+1589,6.5,Comedy,40000000.0,2,4239,Yasiin Bey
 1590,7.5,Adventure,750000000.0,2,140368,Oliver Phelps
 1591,6.5,Comedy,30000000.0,1,27855,Shannyn Sossamon
 1592,7.0,Action,300000000.0,1,121529,Léa Seydoux
@@ -1609,7 +1609,7 @@
 1607,6.0,Comedy,140000000.0,2,1811,Randy Quaid
 1608,6.5,Drama,190000000.0,1,20388,KaDee Strickland
 1609,6.5,Drama,100000000.0,1,10768,Rachel Ticotin
-1610,6.5,Drama,90000000.0,2,10361,Raymond J. Barry
+1610,6.5,Comedy,90000000.0,2,10361,Raymond J. Barry
 1611,6.0,Comedy,130000000.0,2,53684,Robert Smigel
 1612,6.5,Drama,60000000.0,2,135651,Michael B. Jordan
 1613,6.5,Comedy,40000000.0,2,75463,Michael Hitchcock
@@ -1626,14 +1626,14 @@
 1624,6.5,Comedy,120000000.0,2,73128,Skylar Astin
 1625,6.5,Comedy,200000000.0,1,11870,Christine Baranski
 1626,7.0,Action,60000000.0,2,1166,Harris Yulin
-1627,6.5,Drama,50000000.0,2,2310,Bruno Ganz
+1627,6.5,Action,50000000.0,2,2310,Bruno Ganz
 1628,6.0,Horror,100000000.0,1,6684,Lara Flynn Boyle
 1629,7.0,Comedy,150000000.0,1,99,Amanda Plummer
-1630,6.5,Comedy,30000000.0,2,27545,Bruce Altman
+1630,6.5,Drama,30000000.0,2,27545,Bruce Altman
 1631,6.5,Comedy,130000000.0,1,154826,Catherine Reitman
 1632,7.0,Drama,90000000.0,2,4765,Jason Robards
 1633,6.5,Drama,250000000.0,2,2244,Jesper Christensen
-1634,5.5,Drama,50000000.0,2,19974,Greg Germann
+1634,5.5,Comedy,50000000.0,2,19974,Greg Germann
 1635,6.5,Comedy,80000000.0,2,5010,Todd Field
 1636,6.5,Drama,60000000.0,1,81462,Dendrie Taylor
 1637,6.0,Action,40000000.0,1,51989,Jessica Lucas
@@ -1648,18 +1648,18 @@
 1646,6.5,Adventure,160000000.0,1,11008,Rebecca Romijn
 1647,6.5,Drama,80000000.0,2,32357,Nicholas Farrell
 1648,6.5,Animation,210000000.0,2,14991,Jay Leno
-1649,6.5,Drama,70000000.0,2,51792,Rory Cochrane
+1649,6.5,Animation,70000000.0,2,51792,Rory Cochrane
 1650,6.5,Comedy,30000000.0,2,17490,Isiah Whitlock Jr.
 1651,5.5,Horror,30000000.0,1,33259,Jennifer Love Hewitt
 1652,6.5,Action,150000000.0,2,8175,Thom Barry
 1653,7.0,Drama,60000000.0,1,2841,Alison Folland
 1654,6.0,Action,30000000.0,2,33658,Skipp Sudduth
-1655,6.5,Mystery,90000000.0,2,992427,Pierce Gagnon
+1655,6.5,Animation,90000000.0,2,992427,Pierce Gagnon
 1656,7.0,Romance,80000000.0,1,1192492,Aisha Hinds
 1657,7.0,Drama,70000000.0,2,3999,Tom Hulce
 1658,7.0,Science Fiction,180000000.0,2,57452,Faran Tahir
 1659,6.0,Drama,70000000.0,2,22821,David Zayas
-1660,6.5,Drama,200000000.0,1,57451,Leslie Bibb
+1660,6.5,Comedy,200000000.0,1,57451,Leslie Bibb
 1661,6.5,Comedy,60000000.0,2,52794,David Herman
 1662,7.0,Action,180000000.0,2,1582,James Duval
 1663,6.5,Adventure,20000000.0,2,14324,Joss Ackland
@@ -1678,12 +1678,12 @@
 1676,6.5,Drama,50000000.0,1,11150,Gina Gershon
 1677,6.5,Drama,40000000.0,2,3229,Arliss Howard
 1678,6.5,Drama,170000000.0,2,41019,Wilbur Fitzgerald
-1679,6.5,Drama,90000000.0,2,9291,Michael Shamus Wiles
+1679,6.5,Mystery,90000000.0,2,9291,Michael Shamus Wiles
 1680,6.5,Drama,30000000.0,2,17243,Jonathan Tucker
 1681,7.5,Animation,170000000.0,2,86006,Paul Eiding
 1682,7.0,Drama,170000000.0,2,43461,Endre Hules
 1683,6.5,Adventure,320000000.0,2,1077782,Gary A. Hecker
-1684,6.5,Drama,50000000.0,2,33262,Stuart Greer
+1684,6.5,Horror,50000000.0,2,33262,Stuart Greer
 1685,6.5,Action,20000000.0,2,9012,Jonny Lee Miller
 1686,6.5,Horror,210000000.0,2,2680,Donnie Wahlberg
 1687,6.5,Comedy,30000000.0,2,28033,Arthur J. Nascarella
@@ -1696,7 +1696,7 @@
 1694,7.0,Action,140000000.0,1,679,Franka Potente
 1695,6.0,Horror,60000000.0,1,62564,Madeline Carroll
 1696,6.0,Comedy,100000000.0,2,13645,Danny Woodburn
-1697,7.0,Drama,10000000.0,1,2838,Chloë Sevigny
+1697,7.0,Crime,10000000.0,1,2838,Chloë Sevigny
 1698,6.5,Drama,60000000.0,1,43853,Irma P. Hall
 1699,6.5,Comedy,290000000.0,2,990136,Judd Lormand
 1700,6.0,Horror,150000000.0,2,18041,Oded Fehr
@@ -1705,9 +1705,9 @@
 1703,6.0,Action,140000000.0,2,16644,Dolph Lundgren
 1704,7.0,Drama,430000000.0,2,3899,Ken Watanabe
 1705,5.5,Action,90000000.0,2,31132,Columbus Short
-1706,6.5,Drama,80000000.0,2,20739,Adam Shankman
+1706,6.5,Music,80000000.0,2,20739,Adam Shankman
 1707,5.5,Comedy,80000000.0,1,13635,Kristen Johnston
-1708,6.0,Comedy,50000000.0,2,45407,Mark Duplass
+1708,6.0,Thriller,50000000.0,2,45407,Mark Duplass
 1709,6.5,Comedy,100000000.0,2,47632,Rob Brydon
 1710,6.5,Drama,120000000.0,1,164094,Marin Ireland
 1711,6.0,Comedy,80000000.0,2,33663,Donald Trump
@@ -1718,32 +1718,32 @@
 1716,6.0,Comedy,240000000.0,1,59450,Katy Mixon
 1717,7.0,Adventure,40000000.0,2,9221,Donald Pleasence
 1718,7.0,Drama,50000000.0,1,4766,Melora Walters
-1719,6.0,Drama,50000000.0,2,31006,Troy Evans
+1719,6.0,Animation,50000000.0,2,31006,Troy Evans
 1720,6.0,Comedy,90000000.0,2,1219901,Colin Quinn
 1721,7.0,Thriller,70000000.0,2,1236,Mark Pellegrino
 1722,6.5,Drama,30000000.0,2,53807,Armie Hammer
 1723,7.0,Action,300000000.0,2,72864,Tim Kelleher
 1724,6.0,Adventure,110000000.0,2,25002,Lee Byung-hun
 1725,6.5,Comedy,90000000.0,2,2226,Sydney Pollack
-1726,6.0,Comedy,160000000.0,1,26483,Valerie Perrine
-1727,7.0,Drama,140000000.0,1,77264,Ashlie Atkinson
-1728,6.5,Comedy,-0.0,1,8857,Debbie Reynolds
-1729,6.5,Drama,40000000.0,2,1120,Lennie James
+1726,6.0,Action,160000000.0,1,26483,Valerie Perrine
+1727,7.0,Crime,140000000.0,1,77264,Ashlie Atkinson
+1728,6.5,Adventure,-0.0,1,8857,Debbie Reynolds
+1729,6.5,Romance,40000000.0,2,1120,Lennie James
 1730,6.5,Comedy,90000000.0,2,14669,George Wyner
 1731,6.5,Action,180000000.0,2,118617,Nicholas Woodeson
-1732,6.5,Drama,100000000.0,1,60033,Yaya DaCosta
+1732,6.5,Comedy,100000000.0,1,60033,Yaya DaCosta
 1733,6.5,Drama,40000000.0,2,16407,Roger Rees
 1734,6.5,Comedy,40000000.0,1,61980,Wendie Malick
 1735,6.5,Action,220000000.0,2,9629,Jon Gries
 1736,6.0,Comedy,80000000.0,1,15286,Christine Taylor
-1737,7.0,Drama,450000000.0,2,34715,James Nesbitt
+1737,7.0,Adventure,450000000.0,2,34715,James Nesbitt
 1738,6.5,Comedy,170000000.0,2,64181,Dave Goelz
 1739,5.5,Comedy,10000000.0,1,139135,Lena Dunham
-1740,7.0,Mystery,10000000.0,2,385,Ian Richardson
+1740,7.0,Comedy,10000000.0,2,385,Ian Richardson
 1741,6.5,Drama,70000000.0,2,12642,John Neville
 1742,7.0,Drama,10000000.0,2,10743,Ricky Jay
 1743,7.0,Drama,110000000.0,1,4431,Jessica Lange
-1744,6.0,Drama,70000000.0,2,6719,Ray Wise
+1744,6.0,Comedy,70000000.0,2,6719,Ray Wise
 1745,6.5,Drama,20000000.0,2,60021,Christopher Evan Welch
 1746,6.5,Drama,100000000.0,2,12982,Peter Capaldi
 1747,5.5,Action,80000000.0,2,57675,Daryl Sabara
@@ -1753,7 +1753,7 @@
 1751,6.0,Thriller,160000000.0,2,96228,Gary Basaraba
 1752,6.0,Comedy,150000000.0,1,86624,Collette Wolfe
 1753,6.0,Comedy,150000000.0,2,41379,Omid Djalili
-1754,6.5,Comedy,180000000.0,2,12836,Ted Danson
+1754,6.5,Drama,180000000.0,2,12836,Ted Danson
 1755,7.5,Drama,50000000.0,2,3151,Jack Lemmon
 1756,6.5,Horror,60000000.0,2,10210,Daniel Kash
 1757,7.5,Adventure,190000000.0,2,11390,Peter O'Toole
@@ -1774,12 +1774,12 @@
 1772,5.5,Adventure,330000000.0,2,56676,Michael Welch
 1773,6.5,Action,130000000.0,2,49278,Olivier Rabourdin
 1774,6.5,Fantasy,80000000.0,2,4177,Jake Weber
-1775,6.5,Comedy,110000000.0,2,5727,Diedrich Bader
+1775,6.5,Animation,110000000.0,2,5727,Diedrich Bader
 1776,6.5,Comedy,40000000.0,2,23776,Matt King
 1777,6.5,Drama,130000000.0,2,9276,Steve Eastin
 1778,6.5,Adventure,170000000.0,2,10779,David Calder
 1779,6.5,Action,390000000.0,2,558928,Max Charles
-1780,6.0,Comedy,0.0,1,51975,Laura Ramsey
+1780,6.0,Drama,0.0,1,51975,Laura Ramsey
 1781,6.5,Drama,110000000.0,1,108620,Amanda Walker
 1782,7.0,Adventure,520000000.0,2,14592,BD Wong
 1783,6.0,Adventure,470000000.0,1,45827,Ashley Greene
@@ -1789,7 +1789,7 @@
 1787,7.0,Comedy,10000000.0,1,209,Jane Adams
 1788,6.5,Thriller,90000000.0,2,5892,David Hewlett
 1789,6.5,Comedy,130000000.0,2,12833,Edward Burns
-1790,6.0,Mystery,60000000.0,1,22290,Leelee Sobieski
+1790,6.0,Drama,60000000.0,1,22290,Leelee Sobieski
 1791,7.5,Adventure,370000000.0,2,132538,Jack Purvis
 1792,7.0,Action,100000000.0,1,3711,Anna Levine
 1793,6.0,Comedy,30000000.0,2,172734,Don Yesso
@@ -1802,7 +1802,7 @@
 1800,6.0,Comedy,110000000.0,2,41043,Tim McInnerny
 1801,6.5,Comedy,150000000.0,2,783,Jonathan Banks
 1802,5.5,Horror,70000000.0,2,17348,Muse Watson
-1803,6.5,Comedy,60000000.0,2,120253,Tony Bentley
+1803,6.5,Drama,60000000.0,2,120253,Tony Bentley
 1804,6.0,Comedy,150000000.0,2,1576251,Terry Dale Parks
 1805,6.5,Action,110000000.0,2,15196,David Hemmings
 1806,6.5,Science Fiction,80000000.0,1,2392,Gates McFadden
@@ -1815,8 +1815,8 @@
 1813,7.0,Drama,100000000.0,2,42308,Beau Starr
 1814,6.0,Action,100000000.0,1,43202,Antje Traue
 1815,5.5,Comedy,60000000.0,1,22126,Jessica Cauffiel
-1816,6.0,Action,160000000.0,2,9466,Matt McColm
-1817,6.0,Science Fiction,130000000.0,2,24047,Courtney B. Vance
+1816,6.0,Adventure,160000000.0,2,9466,Matt McColm
+1817,6.0,Action,130000000.0,2,24047,Courtney B. Vance
 1818,6.0,Drama,110000000.0,2,76788,Dev Patel
 1819,6.5,Comedy,190000000.0,2,51383,Tyler Labine
 1820,6.5,Comedy,70000000.0,2,5374,Jim Parsons
@@ -1826,7 +1826,7 @@
 1824,6.0,Comedy,70000000.0,1,124644,Analeigh Tipton
 1825,6.5,Drama,130000000.0,1,154224,Esther Scott
 1826,7.0,Drama,130000000.0,2,148122,Geoffrey Blake
-1827,7.0,Drama,180000000.0,2,7025,Richard McCabe
+1827,7.0,Romance,180000000.0,2,7025,Richard McCabe
 1828,6.5,Drama,40000000.0,2,1479,Frank Collison
 1829,6.0,Drama,20000000.0,2,21629,Tzi Ma
 1830,7.0,Drama,110000000.0,2,11397,Ric Young
@@ -1843,13 +1843,13 @@
 1841,6.5,Comedy,50000000.0,2,62644,50 Cent
 1842,6.0,Comedy,270000000.0,1,121953,Stephanie Szostak
 1843,6.0,Crime,60000000.0,1,2598,Sophie Okonedo
-1844,6.0,Drama,40000000.0,1,23959,Debra Messing
+1844,6.0,Comedy,40000000.0,1,23959,Debra Messing
 1845,7.0,Drama,130000000.0,1,87287,Bonnie Aarons
 1846,6.0,Comedy,160000000.0,2,25711,Kevin Cooney
-1847,6.5,Comedy,30000000.0,2,62590,Jack Riley
+1847,6.5,Animation,30000000.0,2,62590,Jack Riley
 1848,6.5,Drama,30000000.0,1,15532,Ruby Dee
 1849,7.0,Drama,10000000.0,2,15684,Paul Schneider
-1850,7.0,Comedy,50000000.0,1,2165,Rosanna Arquette
+1850,7.0,Romance,50000000.0,1,2165,Rosanna Arquette
 1851,7.0,Comedy,160000000.0,2,4654,Jeremy Davies
 1852,6.5,Action,50000000.0,1,51998,Liza Lapira
 1853,6.0,Action,90000000.0,2,8874,Ernie Hudson
@@ -1864,15 +1864,15 @@
 1862,7.0,Comedy,30000000.0,1,10556,Carol Kane
 1863,6.0,Horror,50000000.0,2,33348,Adrian Holmes
 1864,7.0,Drama,240000000.0,1,66441,Talulah Riley
-1865,6.5,Comedy,100000000.0,2,1534,Chris Elliott
-1866,6.5,Comedy,50000000.0,2,102441,Dick Miller
+1865,6.5,Romance,100000000.0,2,1534,Chris Elliott
+1866,6.5,Drama,50000000.0,2,102441,Dick Miller
 1867,6.5,Drama,-10000000.0,1,7427,Felicity Huffman
 1868,6.0,Action,90000000.0,2,10862,Dominic Purcell
 1869,6.5,Drama,40000000.0,2,37154,John Magaro
-1870,7.5,Action,420000000.0,2,194,Richard Harris
+1870,7.5,Adventure,420000000.0,2,194,Richard Harris
 1871,6.5,Drama,20000000.0,2,56100,Alistair Petrie
 1872,6.5,Comedy,160000000.0,2,1329572,Brandon Cyrus
-1873,6.5,War,170000000.0,2,74302,Cory Hardrict
+1873,6.5,Comedy,170000000.0,2,74302,Cory Hardrict
 1874,6.5,Comedy,120000000.0,2,1524,Harold Ramis
 1875,6.0,Drama,-10000000.0,2,27822,David Ryall
 1876,7.0,Comedy,70000000.0,1,4090,Shirley MacLaine
@@ -1882,7 +1882,7 @@
 1880,6.0,Comedy,70000000.0,1,52442,Olivia Thirlby
 1881,7.0,Adventure,330000000.0,2,8210,Wes Bentley
 1882,6.5,Action,190000000.0,2,102567,Randy Oglesby
-1883,7.0,Drama,130000000.0,1,34901,Joanna Lumley
+1883,7.0,Romance,130000000.0,1,34901,Joanna Lumley
 1884,6.5,Action,20000000.0,1,20879,Kate Burton
 1885,6.0,Action,410000000.0,2,116278,Brian Tee
 1886,7.0,Drama,160000000.0,2,26657,David Bamber
@@ -1890,13 +1890,13 @@
 1888,7.5,Comedy,100000000.0,2,7036,Eric Stoltz
 1889,7.0,Family,290000000.0,2,26209,Matt Lucas
 1890,7.0,Drama,250000000.0,2,91494,Enzo Cilenti
-1891,6.0,Comedy,70000000.0,1,54479,Bailee Madison
+1891,6.0,Romance,70000000.0,1,54479,Bailee Madison
 1892,5.0,Comedy,30000000.0,2,53493,Kal Penn
 1893,6.5,Drama,290000000.0,1,139654,Genevieve O'Reilly
 1894,6.0,Comedy,110000000.0,2,1068811,Matthew Cornwell
-1895,6.5,Thriller,140000000.0,2,33403,Mac McDonald
+1895,6.5,Adventure,140000000.0,2,33403,Mac McDonald
 1896,7.5,Adventure,620000000.0,2,23076,Robert Hardy
-1897,7.0,Action,240000000.0,1,1581,Mary McDonnell
+1897,7.0,Horror,240000000.0,1,1581,Mary McDonnell
 1898,7.5,Animation,510000000.0,2,12890,Pete Docter
 1899,7.0,Action,100000000.0,2,12260,Ron Eldard
 1900,6.0,Action,100000000.0,2,80758,Boris Kodjoe
@@ -1919,24 +1919,24 @@
 1917,6.5,Comedy,40000000.0,2,57093,Stephen Spinella
 1918,6.5,Comedy,230000000.0,2,52849,Louis C.K.
 1919,6.5,Comedy,100000000.0,1,128645,Archie Panjabi
-1920,6.0,Comedy,60000000.0,2,20754,Philip Pavel
+1920,6.0,Horror,60000000.0,2,20754,Philip Pavel
 1921,6.5,Romance,130000000.0,2,74487,David Pasquesi
-1922,6.5,Comedy,20000000.0,2,17487,John Gallagher Jr.
+1922,6.5,Drama,20000000.0,2,17487,John Gallagher Jr.
 1923,6.5,Adventure,210000000.0,1,1620,Michelle Yeoh
 1924,7.5,Animation,340000000.0,2,7167,Don Rickles
 1925,7.0,Comedy,300000000.0,2,11115,Peter Serafinowicz
 1926,6.0,Action,360000000.0,2,170635,Andy Buckley
 1927,5.0,Comedy,150000000.0,2,77330,Kenan Thompson
-1928,7.5,Drama,460000000.0,1,3981,Jenette Goldstein
+1928,7.5,Horror,460000000.0,1,3981,Jenette Goldstein
 1929,6.5,Horror,180000000.0,2,12714,Zack Ward
 1930,6.5,Drama,290000000.0,2,11669,Jimmy Fallon
 1931,6.5,Science Fiction,470000000.0,2,15860,Miguel Ferrer
-1932,6.5,Action,120000000.0,2,42362,Eddie Deezen
+1932,6.5,Animation,120000000.0,2,42362,Eddie Deezen
 1933,6.0,Comedy,90000000.0,2,21593,Jason Biggs
 1934,7.5,Animation,520000000.0,2,7882,Jeff Pidgeon
 1935,6.5,Comedy,170000000.0,1,23504,Kiersten Warren
 1936,6.5,Action,110000000.0,2,14331,Nestor Serrano
-1937,6.5,Drama,170000000.0,2,3266,Joe Mantegna
+1937,6.5,Animation,170000000.0,2,3266,Joe Mantegna
 1938,7.5,Drama,80000000.0,2,7164,Frank Vincent
 1939,6.5,Drama,110000000.0,2,9274,James Brolin
 1940,7.5,Action,440000000.0,2,1018947,Maximiliano Hernández
@@ -1950,12 +1950,12 @@
 1948,6.5,Action,80000000.0,1,175826,Mireille Enos
 1949,6.0,Horror,20000000.0,1,27563,Amy Irving
 1950,6.5,Drama,110000000.0,1,28044,Merritt Wever
-1951,6.0,Comedy,30000000.0,1,14390,Diane Mizota
+1951,6.0,Adventure,30000000.0,1,14390,Diane Mizota
 1952,6.5,Adventure,180000000.0,2,61303,Dick Van Dyke
 1953,6.0,Comedy,60000000.0,1,95102,Kaitlin Olson
-1954,6.5,Drama,110000000.0,1,11831,Mary Black
+1954,6.5,Romance,110000000.0,1,11831,Mary Black
 1955,6.5,Drama,-0.0,2,18616,David Morrissey
-1956,6.0,Drama,0.0,2,60650,Michael Paré
+1956,6.0,Crime,0.0,2,60650,Michael Paré
 1957,6.5,Comedy,210000000.0,2,58769,Stephen Colbert
 1958,6.5,Drama,70000000.0,1,343,Taryn Manning
 1959,6.5,Action,280000000.0,2,6280,Powers Boothe
@@ -1965,7 +1965,7 @@
 1963,6.5,Drama,200000000.0,1,20469,Jillian Armenante
 1964,7.0,Drama,150000000.0,1,2405,Audrey Tautou
 1965,6.0,Comedy,70000000.0,1,120244,Arden Myrin
-1966,7.0,Drama,60000000.0,2,1470,Wayne Duvall
+1966,7.0,Romance,60000000.0,2,1470,Wayne Duvall
 1967,6.5,Adventure,110000000.0,2,2065,David Schneider
 1968,6.0,Comedy,110000000.0,2,13640,Harvey Korman
 1969,7.0,Adventure,630000000.0,2,27762,Ian McDiarmid
@@ -1973,7 +1973,7 @@
 1971,6.5,Comedy,180000000.0,2,146391,Brian Stepanek
 1972,5.5,Action,80000000.0,1,10680,Talisa Soto
 1973,6.5,Drama,50000000.0,2,49271,Brian Geraghty
-1974,6.0,Comedy,60000000.0,2,168875,Gary Weeks
+1974,6.0,Science Fiction,60000000.0,2,168875,Gary Weeks
 1975,6.5,Action,280000000.0,1,11825,Maggie Grace
 1976,7.0,Drama,210000000.0,2,552526,Andre B. Blake
 1977,6.5,Science Fiction,630000000.0,2,19541,Mark Ryan
@@ -1985,7 +1985,7 @@
 1983,6.0,Science Fiction,610000000.0,2,19540,Peter Cullen
 1984,6.5,Comedy,100000000.0,1,8183,Kathleen Quinlan
 1985,6.5,Comedy,150000000.0,2,88950,Joel McKinnon Miller
-1986,6.0,Drama,450000000.0,2,65524,Ioan Gruffudd
+1986,6.0,Comedy,450000000.0,2,65524,Ioan Gruffudd
 1987,7.0,Drama,30000000.0,1,88161,Debbi Morgan
 1988,6.0,Comedy,10000000.0,1,13920,Mimi Rogers
 1989,7.0,Drama,170000000.0,2,2059,Adam Baldwin
@@ -1999,19 +1999,19 @@
 1997,6.5,Thriller,30000000.0,2,18325,Jeremy Northam
 1998,6.0,Adventure,360000000.0,2,25441,Steve Speirs
 1999,6.5,Comedy,170000000.0,1,3138,Kathy Griffin
-2000,6.0,Science Fiction,620000000.0,2,117187,Reno Wilson
+2000,6.0,Action,620000000.0,2,117187,Reno Wilson
 2001,6.5,Comedy,160000000.0,2,162849,James Martin Kelly
 2002,6.0,Comedy,130000000.0,2,60286,Ralph Garman
 2003,7.0,Drama,20000000.0,2,1982,Ajay Naidu
 2004,6.5,Comedy,80000000.0,1,19578,Alexis Arquette
 2005,6.0,Animation,80000000.0,1,60739,Kath Soucie
 2006,6.0,Thriller,60000000.0,2,17941,Domenick Lombardozzi
-2007,7.0,Comedy,90000000.0,2,16666,Kevin Connolly
+2007,7.0,Drama,90000000.0,2,16666,Kevin Connolly
 2008,7.0,Drama,50000000.0,1,37052,Wendy Nottingham
 2009,6.5,Drama,10000000.0,1,77795,Katherine Waterston
 2010,6.5,Comedy,40000000.0,2,6844,Dom DeLuise
-2011,6.5,Drama,10000000.0,2,16327,Timothy Hutton
-2012,6.5,Comedy,120000000.0,2,10671,Joe Don Baker
+2011,6.5,Thriller,10000000.0,2,16327,Timothy Hutton
+2012,6.5,Drama,120000000.0,2,10671,Joe Don Baker
 2013,6.0,Comedy,60000000.0,2,170820,Ben Falcone
 2014,6.0,Drama,20000000.0,2,52647,Shawn Hatosy
 2015,7.0,Action,100000000.0,2,36631,Randall Batinkoff
@@ -2046,7 +2046,7 @@
 2044,7.0,Crime,50000000.0,2,8487,Gregory Peck
 2045,6.5,Action,0.0,2,18071,Geoffrey Lewis
 2046,6.5,Action,200000000.0,2,55089,Evan Peters
-2047,6.5,Drama,180000000.0,1,13636,Jane Krakowski
+2047,6.5,Animation,180000000.0,1,13636,Jane Krakowski
 2048,6.5,Adventure,380000000.0,1,58778,Nina Young
 2049,6.0,Comedy,10000000.0,2,10486,Chelcie Ross
 2050,7.5,Drama,230000000.0,1,1146,Julie Delpy
@@ -2058,7 +2058,7 @@
 2056,7.0,Adventure,630000000.0,2,81178,Charlie Adler
 2057,6.5,Action,60000000.0,1,70904,Michelle Dockery
 2058,6.5,Horror,40000000.0,2,42708,Rob LaBelle
-2059,7.0,Drama,90000000.0,2,11085,Anthony Edwards
+2059,7.0,Comedy,90000000.0,2,11085,Anthony Edwards
 2060,6.5,Comedy,260000000.0,2,7420,Harvey Fierstein
 2061,6.0,Comedy,130000000.0,1,88029,Alison Brie
 2062,5.5,Adventure,500000000.0,2,84215,Jackson Rathbone
@@ -2074,11 +2074,11 @@
 2072,6.5,Action,190000000.0,2,1257821,Vincent Wong
 2073,6.0,Comedy,120000000.0,2,26999,Chris Owen
 2074,6.5,Adventure,230000000.0,2,60348,Dave Legeno
-2075,6.0,Drama,40000000.0,2,19655,James D'Arcy
+2075,6.0,Comedy,40000000.0,2,19655,James D'Arcy
 2076,7.0,Drama,130000000.0,2,550554,Sebastian Hülk
 2077,5.5,Adventure,280000000.0,2,11007,Ray Park
-2078,6.0,Drama,40000000.0,2,7470,Meat Loaf
-2079,6.0,Animation,260000000.0,2,71535,Tom Kane
+2078,6.0,Music,40000000.0,2,7470,Meat Loaf
+2079,6.0,Fantasy,260000000.0,2,71535,Tom Kane
 2080,6.5,Drama,30000000.0,2,1056523,John D'Leo
 2081,7.0,Adventure,130000000.0,2,4515,Treat Williams
 2082,6.5,Adventure,70000000.0,2,32300,Johnny Harris
@@ -2087,7 +2087,7 @@
 2085,7.0,Drama,70000000.0,2,52995,Edward Herrmann
 2086,6.5,Comedy,90000000.0,1,16935,Geena Davis
 2087,6.5,Drama,180000000.0,2,77155,James Saito
-2088,6.5,Comedy,50000000.0,2,6396,Richard Edson
+2088,6.5,Drama,50000000.0,2,6396,Richard Edson
 2089,7.0,Action,30000000.0,2,65141,Laurence Mason
 2090,7.0,Comedy,10000000.0,2,71555,Andrew Wilson
 2091,6.0,Drama,30000000.0,1,3130,Jennifer Beals
@@ -2101,40 +2101,40 @@
 2099,6.5,Drama,70000000.0,2,480,Gary Lewis
 2100,6.0,Drama,60000000.0,2,34257,Anthony Stewart Head
 2101,7.0,Comedy,50000000.0,2,2413,Dominique Pinon
-2102,6.5,Drama,70000000.0,2,120833,Richard Durden
-2103,6.5,Drama,130000000.0,2,572541,Caleb Landry Jones
+2102,6.5,Horror,70000000.0,2,120833,Richard Durden
+2103,6.5,Horror,130000000.0,2,572541,Caleb Landry Jones
 2104,6.5,Drama,10000000.0,1,98,Sarah Polley
 2105,7.0,Drama,40000000.0,1,4513,Elizabeth McGovern
 2106,7.0,Drama,280000000.0,2,6576,Mark Rolston
 2107,6.5,Action,560000000.0,2,32747,Stephen Lang
-2108,6.0,Action,210000000.0,2,63566,Michael Adamthwaite
+2108,6.0,Adventure,210000000.0,2,63566,Michael Adamthwaite
 2109,6.5,Comedy,90000000.0,2,85170,Ron Canada
 2110,7.0,Comedy,20000000.0,2,11278,Rupert Graves
 2111,6.5,Drama,210000000.0,2,18307,Daniel Dae Kim
 2112,6.5,Comedy,70000000.0,2,20752,Alex Rocco
-2113,6.0,Comedy,90000000.0,2,16847,Eli Roth
+2113,6.0,Horror,90000000.0,2,16847,Eli Roth
 2114,6.0,Comedy,120000000.0,2,9208,Robert Wagner
 2115,6.0,Action,40000000.0,1,26467,Kyra Sedgwick
 2116,6.0,Action,20000000.0,2,6916,Peter Jason
 2117,6.0,Animation,280000000.0,2,23680,Dee Bradley Baker
-2118,7.0,Comedy,120000000.0,2,19498,Jon Bernthal
+2118,7.0,Thriller,120000000.0,2,19498,Jon Bernthal
 2119,6.5,Drama,170000000.0,1,1246221,Bernadette Lords
 2120,6.5,Action,400000000.0,1,22123,Jordana Brewster
 2121,6.5,Horror,90000000.0,2,59198,Matthew G. Taylor
 2122,7.0,Action,110000000.0,2,2482,David O'Hara
 2123,6.5,Drama,150000000.0,2,109438,Xavier Samuel
-2124,7.0,Comedy,40000000.0,2,16896,James Garner
+2124,7.0,Animation,40000000.0,2,16896,James Garner
 2125,6.5,Drama,70000000.0,2,60874,Dane Rhodes
 2126,5.5,Drama,20000000.0,1,4432,Frances Conroy
-2127,6.5,Drama,-10000000.0,2,77996,Asa Butterfield
-2128,6.0,Comedy,30000000.0,2,4606,Jimmy Ortega
+2127,6.5,Comedy,-10000000.0,2,77996,Asa Butterfield
+2128,6.0,Action,30000000.0,2,4606,Jimmy Ortega
 2129,6.0,Animation,170000000.0,2,111875,Al Roker
 2130,7.0,Drama,110000000.0,2,58333,Tom Kemp
 2131,6.5,Science Fiction,270000000.0,2,52483,Rus Blackwell
 2132,7.5,Adventure,310000000.0,1,851784,Mackenzie Foy
 2133,6.0,Action,10000000.0,1,70456,Emily Browning
 2134,6.0,Action,100000000.0,2,230400,Radivoje Bukvić
-2135,7.0,Drama,130000000.0,2,1117,Dennis Farina
+2135,7.0,Comedy,130000000.0,2,1117,Dennis Farina
 2136,6.0,Drama,180000000.0,2,54738,Jack Huston
 2137,6.5,Drama,80000000.0,2,12763,Joseph Fiennes
 2138,5.5,Action,110000000.0,2,5577,Chris O'Donnell
@@ -2165,17 +2165,17 @@
 2163,5.5,Comedy,10000000.0,2,59410,Bob Odenkirk
 2164,7.0,Comedy,160000000.0,2,11511,Daniel Stern
 2165,6.0,Comedy,140000000.0,2,12219,Jon Stewart
-2166,6.5,Drama,100000000.0,1,1226302,Jillian Bell
+2166,6.5,Comedy,100000000.0,1,1226302,Jillian Bell
 2167,6.5,Comedy,30000000.0,1,121757,Maddie Corman
 2168,6.5,Drama,60000000.0,2,44103,Richard Fitzpatrick
 2169,6.5,Drama,50000000.0,1,63279,Anna Deavere Smith
 2170,7.0,Drama,50000000.0,2,42824,Carl Ciarfalio
 2171,6.5,Comedy,110000000.0,2,9140,James Faulkner
 2172,6.5,Drama,80000000.0,2,5473,Julian Wadham
-2173,7.5,Mystery,430000000.0,2,79079,Jamie McShane
+2173,7.5,Drama,430000000.0,2,79079,Jamie McShane
 2174,6.5,Drama,10000000.0,1,61134,Tatiana Maslany
 2175,6.5,Adventure,870000000.0,1,42286,Julene Renee
-2176,7.0,Animation,430000000.0,2,36821,Nicholas Guest
+2176,7.0,Adventure,430000000.0,2,36821,Nicholas Guest
 2177,6.0,Comedy,30000000.0,2,62856,Seth Meyers
 2178,6.0,Comedy,100000000.0,2,3492,Colin Hanks
 2179,6.5,Animation,340000000.0,2,15757,Ray Romano
@@ -2196,10 +2196,10 @@
 2194,7.0,Action,250000000.0,2,127005,Chris Wilson
 2195,6.5,Horror,30000000.0,2,11163,John Saxon
 2196,6.5,Horror,200000000.0,2,73417,Joseph Bishara
-2197,7.0,Drama,110000000.0,1,14548,Marcia Jean Kurtz
+2197,7.0,Crime,110000000.0,1,14548,Marcia Jean Kurtz
 2198,6.5,Adventure,190000000.0,2,17837,Patrick Gallagher
 2199,6.5,Adventure,120000000.0,2,11022,Aaron Stanford
-2200,6.5,Drama,110000000.0,2,162828,Cooper Thornton
+2200,6.5,Mystery,110000000.0,2,162828,Cooper Thornton
 2201,6.0,Horror,50000000.0,1,94428,Lara Grice
 2202,7.0,Adventure,210000000.0,2,2467,James Cosmo
 2203,6.0,Horror,90000000.0,2,6860,Jimmy Bennett
